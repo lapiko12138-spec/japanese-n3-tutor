@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "updatedDate": "2026-06-14",
+    "dimensions": ["heardExplanation 听过讲解", "canRecognize 能识别", "canExplain 能解释规则", "canConjugate 能变形", "canChoose 能做选择", "canFill 能填空", "canTranslate 能翻译", "canProduce 能主动造句", "canReadComprehend 阅读中理解", "retainedDelayed 延迟复习仍正确"],
+    "statusEnum": ["未学习", "正在学习", "初步理解", "能识别", "提示下能用", "能独立使用", "基本掌握", "稳定掌握", "需要复习", "已遗忘"],
+    "note": "知识点多维掌握。不要把做对一道选择题当成已掌握。各维度布尔/三态(false/部分/true);测试后更新。"
+  },
+  "skills": [
+    {
+      "id": "g-verb-classes", "name": "动词三类分类", "lessonId": "L02", "status": "未学习",
+      "heardExplanation": false, "canRecognize": false, "canExplain": false, "canConjugate": false,
+      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "canReadComprehend": false, "retainedDelayed": false,
+      "note": "诊断薄弱点⑦,L02 重点新授"
+    },
+    {
+      "id": "g-dictionary-form", "name": "动词辞书形", "lessonId": "L02", "status": "未学习",
+      "heardExplanation": false, "canRecognize": "部分", "canExplain": false, "canConjugate": false,
+      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "canReadComprehend": "部分", "retainedDelayed": false,
+      "note": "能见到原形但概念不清,L02 新授"
+    },
+    {
+      "id": "g-dict-to-masu", "name": "辞书形→ます形", "lessonId": "L02", "status": "未学习",
+      "heardExplanation": false, "canRecognize": false, "canExplain": false, "canConjugate": false,
+      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "canReadComprehend": false, "retainedDelayed": false,
+      "note": "L02 初步,L03 深化"
+    },
+    {
+      "id": "g-masu-system", "name": "礼貌体四态", "lessonId": "L03", "status": "需要复习",
+      "heardExplanation": true, "canRecognize": true, "canExplain": false, "canConjugate": "部分",
+      "canChoose": "部分", "canFill": false, "canTranslate": "部分", "canProduce": false,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "ませんでした 不熟(诊断薄弱点④)"
+    },
+    {
+      "id": "g-teiru", "name": "～ています(进行/状态)", "lessonId": "L07", "status": "已遗忘",
+      "heardExplanation": true, "canRecognize": "部分", "canExplain": false, "canConjugate": false,
+      "canChoose": "部分", "canFill": false, "canTranslate": "部分", "canProduce": false,
+      "canReadComprehend": "部分", "retainedDelayed": false,
+      "note": "与过去时混淆(诊断薄弱点①)"
+    },
+    {
+      "id": "g-ta-koto-ga-aru", "name": "～たことがある(经验)", "lessonId": "L13", "status": "未学习",
+      "heardExplanation": false, "canRecognize": false, "canExplain": false, "canConjugate": false,
+      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "canReadComprehend": false, "retainedDelayed": false,
+      "note": "诊断薄弱点③"
+    },
+    {
+      "id": "g-potential", "name": "可能形", "lessonId": "L19", "status": "已遗忘",
+      "heardExplanation": true, "canRecognize": "部分", "canExplain": false, "canConjugate": false,
+      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "canReadComprehend": "部分", "retainedDelayed": false,
+      "note": "与被动混淆(诊断薄弱点②)"
+    },
+    {
+      "id": "g-conditional-ba", "name": "条件~ば", "lessonId": "L32", "status": "已遗忘",
+      "heardExplanation": true, "canRecognize": "部分", "canExplain": false, "canConjugate": false,
+      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "canReadComprehend": false, "retainedDelayed": false,
+      "note": "不会构造ば形(诊断薄弱点⑤)"
+    },
+    {
+      "id": "g-toki-basic", "name": "时间表达~とき", "lessonId": "L15", "status": "需要复习",
+      "heardExplanation": true, "canRecognize": true, "canExplain": false, "canConjugate": false,
+      "canChoose": "部分", "canFill": false, "canTranslate": "部分", "canProduce": false,
+      "canReadComprehend": "部分", "retainedDelayed": false,
+      "note": "掌握不足(诊断薄弱点⑥)"
+    }
+  ]
+}

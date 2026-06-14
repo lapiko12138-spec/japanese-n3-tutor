@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "updatedDate": "2026-06-14",
+    "note": "学习日志与统计。每节课结束追加 session 并更新 stats。"
+  },
+  "stats": {
+    "streakDays": 0,
+    "totalSessions": 0,
+    "totalMinutes": 0,
+    "lessonsCompleted": 0,
+    "wordsLearned": 0,
+    "grammarLearned": 0,
+    "lastStudyDate": null,
+    "weeklyMinutes": { "2026-W24": 0 },
+    "n3Progress": 0
+  },
+  "sessions": [
+    {
+      "id": "s-0000",
+      "date": "2026-06-14",
+      "lessonId": "L00",
+      "type": "diagnostic",
+      "durationMin": 0,
+      "newWords": 0,
+      "reviewedWords": 0,
+      "score": null,
+      "summary": "完成入学诊断与系统初始化。定位 N5 后半~N4 初级。下一步:第一节正式课 L02(动词辞书形与三种类别)。"
+    }
+  ]
+}

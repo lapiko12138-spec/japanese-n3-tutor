@@ -1,0 +1,132 @@
+:root{
+  --bg:#f6f4ef; --panel:#ffffff; --ink:#222831; --muted:#6b7280; --line:#e7e3da;
+  --indigo:#2b3a67; --indigo2:#3d5a80; --sakura:#e0848a; --sakura-bg:#fbeef0;
+  --green:#3f9d6d; --green-bg:#e7f3ec; --amber:#cf9b3a; --amber-bg:#fbf2dc;
+  --red:#cc5a52; --red-bg:#fbe9e7; --blue:#3a6ea5; --blue-bg:#e8f0f8; --gray-bg:#eceae5;
+  --shadow:0 1px 3px rgba(30,30,40,.06),0 6px 20px rgba(30,30,40,.05);
+  --radius:14px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  font-family:"Hiragino Sans","PingFang SC","Noto Sans CJK SC","Microsoft YaHei",system-ui,sans-serif;
+  background:var(--bg); color:var(--ink); -webkit-font-smoothing:antialiased; line-height:1.6;
+}
+#app{display:flex; min-height:100vh}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace; background:#00000008; padding:1px 5px; border-radius:5px; font-size:.88em}
+
+/* sidebar */
+.sidebar{width:230px; flex-shrink:0; background:linear-gradient(180deg,#2b3a67,#243056); color:#eef1f8; display:flex; flex-direction:column; position:sticky; top:0; height:100vh}
+.brand{padding:22px 20px 14px}
+.brand-jp{font-size:26px; font-weight:800; letter-spacing:2px}
+.brand-sub{font-size:12px; color:#aeb8d4; margin-top:4px}
+#nav{display:flex; flex-direction:column; padding:8px 10px; gap:2px; flex:1}
+#nav a{display:flex; align-items:center; gap:10px; color:#d4dbed; text-decoration:none; padding:10px 12px; border-radius:10px; font-size:14.5px; transition:.15s}
+#nav a .ic{font-size:15px; width:20px; text-align:center}
+#nav a:hover{background:#ffffff14; color:#fff}
+#nav a.active{background:#ffffff1f; color:#fff; font-weight:600; box-shadow:inset 3px 0 0 var(--sakura)}
+.sidebar-foot{padding:16px 18px; border-top:1px solid #ffffff1a}
+.foot-note{font-size:11.5px; color:#aeb8d4; line-height:1.7}
+
+/* main */
+.main{flex:1; min-width:0; display:flex; flex-direction:column}
+.topbar{display:flex; justify-content:space-between; align-items:center; gap:16px; padding:16px 30px; background:#fffffff2; border-bottom:1px solid var(--line); position:sticky; top:0; z-index:5; backdrop-filter:saturate(1.2) blur(4px)}
+.topbar-left{font-size:14px; color:var(--muted)}
+.topbar-left b{color:var(--ink)}
+.topbar-right{display:flex; gap:10px; align-items:center}
+.view{padding:26px 30px; max-width:1080px; width:100%}
+.page-foot{padding:18px 30px 30px; color:var(--muted); font-size:12px}
+
+h1.page-title{font-size:22px; margin:0 0 4px}
+.page-desc{color:var(--muted); font-size:13.5px; margin:0 0 22px}
+h2.sec{font-size:15px; margin:26px 0 12px; color:var(--indigo); font-weight:700; display:flex; align-items:center; gap:8px}
+h2.sec::before{content:""; width:4px; height:15px; background:var(--sakura); border-radius:3px; display:inline-block}
+
+/* cards & grid */
+.grid{display:grid; gap:16px}
+.g2{grid-template-columns:repeat(2,1fr)}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+.card{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:18px 20px; box-shadow:var(--shadow)}
+.card.hero{background:linear-gradient(135deg,#2b3a67,#3d5a80); color:#fff; border:none}
+.card.hero .k{color:#c3cde8}
+.card .k{font-size:12px; color:var(--muted); margin-bottom:6px; letter-spacing:.3px}
+.card .v{font-size:20px; font-weight:700}
+.card .v.sm{font-size:15px; font-weight:600}
+.stat .v{font-size:26px}
+.stat .unit{font-size:13px; color:var(--muted); font-weight:500; margin-left:3px}
+.hero .big{font-size:13px; color:#c3cde8; margin-bottom:2px}
+.hero .lesson-title{font-size:24px; font-weight:800; margin:2px 0 8px}
+.cta{display:inline-block; margin-top:10px; background:#ffffff1f; border:1px solid #ffffff3d; color:#fff; padding:9px 14px; border-radius:10px; font-size:13.5px}
+.cta b{color:#ffd9dc}
+
+/* badges */
+.badge{display:inline-block; padding:2px 9px; border-radius:999px; font-size:11.5px; font-weight:600; line-height:1.7; white-space:nowrap}
+.b-n5{background:var(--green-bg); color:var(--green)}
+.b-n4{background:var(--blue-bg); color:var(--blue)}
+.b-n3{background:var(--sakura-bg); color:var(--sakura)}
+.b-green{background:var(--green-bg); color:var(--green)}
+.b-amber{background:var(--amber-bg); color:var(--amber)}
+.b-red{background:var(--red-bg); color:var(--red)}
+.b-blue{background:var(--blue-bg); color:var(--blue)}
+.b-gray{background:var(--gray-bg); color:var(--muted)}
+.b-indigo{background:#e7ebf5; color:var(--indigo2)}
+
+/* lists / tables */
+.rowlist{display:flex; flex-direction:column; gap:10px}
+.lrow{background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:13px 16px; box-shadow:var(--shadow)}
+.lrow .top{display:flex; align-items:center; gap:10px; flex-wrap:wrap}
+.lrow .title{font-weight:600; font-size:14.5px}
+.lrow .sub{color:var(--muted); font-size:13px; margin-top:5px}
+.spacer{flex:1}
+.jp{font-family:"Hiragino Sans","Yu Gothic","Noto Sans CJK JP",sans-serif}
+.kana{color:var(--muted); font-size:12.5px}
+
+table.tbl{width:100%; border-collapse:collapse; background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow)}
+.tbl th,.tbl td{text-align:left; padding:11px 14px; border-bottom:1px solid var(--line); font-size:13.5px; vertical-align:top}
+.tbl th{background:#faf9f6; color:var(--muted); font-weight:600; font-size:12px; letter-spacing:.3px}
+.tbl tr:last-child td{border-bottom:none}
+.tbl tr:hover td{background:#faf9f6}
+
+/* stage block in map */
+.stage{margin-bottom:26px}
+.stage-head{display:flex; align-items:center; gap:10px; margin:0 0 12px}
+.stage-name{font-size:15px; font-weight:700}
+.lesson-card{display:flex; align-items:center; gap:12px; padding:12px 15px; border:1px solid var(--line); border-radius:11px; background:var(--panel); margin-bottom:8px; box-shadow:var(--shadow)}
+.lesson-card.locked{opacity:.62}
+.lesson-card.current{border-color:var(--sakura); box-shadow:0 0 0 2px var(--sakura-bg)}
+.lesson-no{font-size:12px; font-weight:700; color:var(--indigo2); background:#eef1f8; border-radius:8px; padding:4px 8px; min-width:42px; text-align:center}
+.lesson-main{flex:1; min-width:0}
+.lesson-name{font-weight:600; font-size:14px}
+.lesson-meta{color:var(--muted); font-size:12px; margin-top:3px}
+
+/* progress bar */
+.bar{height:9px; background:#ece9e2; border-radius:99px; overflow:hidden}
+.bar > i{display:block; height:100%; background:linear-gradient(90deg,var(--indigo2),var(--sakura)); border-radius:99px}
+.pct{font-size:12px; color:var(--muted)}
+
+/* example / detail */
+.ex{background:#faf9f6; border-left:3px solid var(--sakura); border-radius:0 8px 8px 0; padding:8px 12px; margin:6px 0; font-size:13.5px}
+.ex .cn{color:var(--muted); font-size:12.5px}
+details summary{cursor:pointer; color:var(--indigo2); font-size:13px}
+.kv{display:flex; gap:8px; font-size:13px; margin:3px 0}
+.kv .k{color:var(--muted); min-width:84px; flex-shrink:0}
+.notice{background:var(--blue-bg); border:1px solid #cfe0f0; color:#2e5a85; padding:10px 14px; border-radius:10px; font-size:13px; margin:8px 0}
+.tag-row{display:flex; gap:6px; flex-wrap:wrap; margin-top:6px}
+.filters{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px}
+.filters button{border:1px solid var(--line); background:var(--panel); color:var(--muted); padding:6px 13px; border-radius:99px; font-size:12.5px; cursor:pointer; transition:.15s}
+.filters button:hover{border-color:var(--indigo2); color:var(--indigo2)}
+.filters button.active{background:var(--indigo); color:#fff; border-color:var(--indigo)}
+.empty{color:var(--muted); font-size:13.5px; padding:18px; text-align:center; background:var(--panel); border:1px dashed var(--line); border-radius:12px}
+.err-box{background:var(--red-bg); border:1px solid #f0cfcb; color:#9c3a33; padding:18px 20px; border-radius:12px; font-size:14px}
+.err-box code{background:#ffffff8a}
+.loading{color:var(--muted); padding:40px; text-align:center}
+.dot{width:8px; height:8px; border-radius:50%; display:inline-block; margin-right:5px}
+.dot.green{background:var(--green)} .dot.amber{background:var(--amber)} .dot.red{background:var(--red)} .dot.gray{background:#bfbcb4} .dot.blue{background:var(--blue)}
+
+@media (max-width:860px){
+  .sidebar{width:64px} .brand-sub,.foot-note,#nav a span:not(.ic)+*{display:none}
+  .brand-jp{font-size:18px} #nav a{justify-content:center; padding:11px 0}
+  .g3,.g4,.g2{grid-template-columns:1fr 1fr}
+}
+@media (max-width:560px){ .g3,.g4,.g2{grid-template-columns:1fr} .view{padding:18px} }

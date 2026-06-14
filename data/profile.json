@@ -1,0 +1,38 @@
+{
+  "name": "学习者",
+  "createdDate": "2026-06-14",
+  "goal": "JLPT N3",
+  "duolingoScore": 58,
+  "currentLevel": {
+    "overall": "N5 后半段 ~ N4 初级",
+    "vocabulary": "N5 后半 ~ N4 初级",
+    "reading": "N4 初级",
+    "grammar": "N5 基础存在断层",
+    "output": "N5 初级 ~ 中级"
+  },
+  "teachingPolicy": "不直接从 N3 开始。先压缩补齐 N5、N4 体系,再逐步进入 N3。",
+  "strengths": [
+    "理解部分 N5 基础词汇",
+    "理解简单助词",
+    "理解简单时间 / 原因 / 比较表达",
+    "看懂简单短文",
+    "基础选择题与简单阅读表现尚可"
+  ],
+  "weaknesses": [
+    "进行时与过去时区分不稳定",
+    "可能形与被动形混淆",
+    "未掌握「～たことがある／ない」",
+    "不熟「ませんでした」",
+    "不会正确构造「～ば」",
+    "「～とき」等时间表达掌握不足",
+    "动词分类(Ⅰ/Ⅱ/Ⅲ类)与变形体系不完整",
+    "主动输出存在中文直译问题"
+  ],
+  "preferences": {
+    "lessonLengthMin": 60,
+    "lessonLengthRange": [45, 75],
+    "dailyNewWords": [8, 12],
+    "teachingStyle": "先讲后练;听不懂时换表格/对比例句/中文逻辑/生活场景,并检查前置知识"
+  },
+  "updatedDate": "2026-06-14"
+}

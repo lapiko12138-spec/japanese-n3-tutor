@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "updatedDate": "2026-06-14",
+    "intervals": ["当天课后", "第2天", "第4天", "第7天", "第14天", "第30天"],
+    "note": "间隔复习队列。type: word/grammar/error。dueDate 到期即在网站「复习计划」与首页「到期复习」中出现。重复答错缩短间隔,主动自然使用延长间隔。"
+  },
+  "items": [
+    { "id": "r-0001", "type": "grammar", "refId": "g-verb-classes", "label": "动词三类分类", "dueDate": "2026-06-15", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0006" },
+    { "id": "r-0002", "type": "grammar", "refId": "g-masu-system", "label": "ませんでした(礼貌体四态)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0004" },
+    { "id": "r-0003", "type": "grammar", "refId": "g-teiru", "label": "～ています(进行/状态)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0001" },
+    { "id": "r-0004", "type": "grammar", "refId": "g-ta-koto-ga-aru", "label": "～たことがある(经验)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0003" },
+    { "id": "r-0005", "type": "grammar", "refId": "g-toki-basic", "label": "～とき(时间表达)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": null },
+    { "id": "r-0006", "type": "grammar", "refId": "g-potential", "label": "可能形 / 被动形辨析", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0002" },
+    { "id": "r-0007", "type": "grammar", "refId": "g-conditional-ba", "label": "～ば(条件)", "dueDate": "2026-06-19", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0005" }
+  ]
+}

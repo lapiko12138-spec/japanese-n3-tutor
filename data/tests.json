@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "updatedDate": "2026-06-14",
+    "note": "测试记录。课后测试评分后追加。下列首条为入学诊断结果(非正式课后测试)。"
+  },
+  "tests": [
+    {
+      "id": "t-0000",
+      "lessonId": "L00",
+      "courseName": "入学诊断",
+      "date": "2026-06-14",
+      "type": "diagnostic",
+      "totalScore": null,
+      "breakdown": {
+        "词汇识别": "N5后半~N4初级",
+        "简单阅读": "N4初级",
+        "语法体系": "N5基础有断层",
+        "主动输出": "N5初级~中级"
+      },
+      "correctRate": null,
+      "masteryLevel": "定位:N5后半~N4初级",
+      "errorCount": 7,
+      "passed": null,
+      "teacherNote": "靠语感答题、能解题但不能解释规则。优先补:动词分类与变形、进行/过去、可能/被动、经验体、ませんでした、ば、とき。不直接进 N3,先压缩补齐 N5/N4。"
+    }
+  ]
+}
