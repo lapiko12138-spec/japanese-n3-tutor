@@ -2,9 +2,9 @@
   "currentLessonId": "L02",
   "currentLessonTitle": "动词辞书形与三种类别",
   "currentStageId": "stage-0",
-  "phase": "not_started",
-  "phaseLabel": "尚未开始",
-  "lastUpdated": "2026-06-14",
+  "phase": "reviewing",
+  "phaseLabel": "前置检查 / 复习中",
+  "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 6,
     "completedBlocks": [],
