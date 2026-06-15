@@ -2,13 +2,13 @@
   "currentLessonId": "L02",
   "currentLessonTitle": "动词辞书形与三种类别",
   "currentStageId": "stage-0",
-  "phase": "reviewing",
-  "phaseLabel": "前置检查 / 复习中",
+  "phase": "teaching",
+  "phaseLabel": "授课中 · 第1块「什么是辞书形」",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 6,
     "completedBlocks": [],
-    "currentBlock": null,
+    "currentBlock": "什么是辞书形",
     "blockTitles": [
       "什么是辞书形",
       "为什么要区分动词类别",
