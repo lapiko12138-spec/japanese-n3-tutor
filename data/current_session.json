@@ -3,12 +3,12 @@
   "currentLessonTitle": "动词辞书形与三种类别",
   "currentStageId": "stage-0",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第2块「为什么要区分动词类别」",
+  "phaseLabel": "授课中 · 第3块「Ⅰ类(五段)动词」",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 6,
-    "completedBlocks": ["什么是辞书形"],
-    "currentBlock": "为什么要区分动词类别",
+    "completedBlocks": ["什么是辞书形", "为什么要区分动词类别"],
+    "currentBlock": "Ⅰ类(五段)动词",
     "blockTitles": [
       "什么是辞书形",
       "为什么要区分动词类别",
