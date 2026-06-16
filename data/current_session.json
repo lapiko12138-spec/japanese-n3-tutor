@@ -3,12 +3,12 @@
   "currentLessonTitle": "动词辞书形与三种类别",
   "currentStageId": "stage-0",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第5块「Ⅲ类(不规则)+ 常见例外」",
+  "phaseLabel": "授课中 · 第6块「辞书形→ます形 初步」",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 6,
-    "completedBlocks": ["什么是辞书形", "为什么要区分动词类别", "Ⅰ类(五段)动词", "Ⅱ类(一段)动词"],
-    "currentBlock": "Ⅲ类(不规则)+ 常见例外",
+    "completedBlocks": ["什么是辞书形", "为什么要区分动词类别", "Ⅰ类(五段)动词", "Ⅱ类(一段)动词", "Ⅲ类(不规则)+ 常见例外"],
+    "currentBlock": "辞书形→ます形 初步",
     "blockTitles": [
       "什么是辞书形",
       "为什么要区分动词类别",
