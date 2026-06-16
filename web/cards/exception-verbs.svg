@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="system-ui,'PingFang SC','Hiragino Sans',sans-serif">
+  <rect x="0" y="0" width="1040" height="560" fill="#f6f4ef"/>
+  <text x="520" y="38" text-anchor="middle" font-size="24" font-weight="800" fill="#2b3a67">🧠 记忆卡 · Ⅰ类「伪装」例外动词</text>
+  <text x="520" y="62" text-anchor="middle" font-size="14" fill="#6b7280">る前是 i/e 段,看着像 Ⅱ类,其实全是 Ⅰ类 —— 用一个小故事一次记牢</text>
+
+  <!-- ===== PANEL 1 走る ===== -->
+  <rect x="20" y="90" width="180" height="300" rx="16" fill="#fbf6ee" stroke="#ead9c2"/>
+  <circle cx="40" cy="112" r="15" fill="#d9534f"/><text x="40" y="117" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">1</text>
+  <g stroke="#2b3a67" stroke-width="5" stroke-linecap="round" fill="none">
+    <line x1="60" y1="170" x2="78" y2="170"/><line x1="55" y1="190" x2="76" y2="190"/><line x1="60" y1="210" x2="78" y2="210"/>
+    <circle cx="118" cy="170" r="15" fill="#ffd9a0" stroke="#2b3a67"/>
+    <line x1="116" y1="186" x2="108" y2="225"/>
+    <line x1="112" y1="198" x2="92" y2="190"/><line x1="112" y1="198" x2="134" y2="210"/>
+    <line x1="108" y1="225" x2="90" y2="252"/><line x1="108" y1="225" x2="130" y2="245"/>
+  </g>
+  <text x="110" y="310" text-anchor="middle" font-size="34" font-weight="800" fill="#2b3a67">走る</text>
+  <text x="110" y="336" text-anchor="middle" font-size="15" fill="#6b7280">はしる</text>
+  <text x="110" y="364" text-anchor="middle" font-size="17" fill="#d9534f" font-weight="700">跑</text>
+  <text x="214" y="245" text-anchor="middle" font-size="30" fill="#c9a978">➜</text>
+
+  <!-- ===== PANEL 2 帰る ===== -->
+  <rect x="232" y="90" width="180" height="300" rx="16" fill="#fbf6ee" stroke="#ead9c2"/>
+  <circle cx="252" cy="112" r="15" fill="#d9534f"/><text x="252" y="117" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">2</text>
+  <polygon points="322,148 372,188 272,188" fill="#e8896b" stroke="#2b3a67" stroke-width="3"/>
+  <rect x="284" y="188" width="76" height="64" fill="#fff" stroke="#2b3a67" stroke-width="3"/>
+  <rect x="312" y="216" width="22" height="36" fill="#c9a978" stroke="#2b3a67" stroke-width="2"/>
+  <rect x="292" y="200" width="15" height="15" fill="#bcd4f0" stroke="#2b3a67" stroke-width="2"/>
+  <text x="322" y="310" text-anchor="middle" font-size="34" font-weight="800" fill="#2b3a67">帰る</text>
+  <text x="322" y="336" text-anchor="middle" font-size="15" fill="#6b7280">かえる</text>
+  <text x="322" y="364" text-anchor="middle" font-size="17" fill="#d9534f" font-weight="700">回家</text>
+  <text x="426" y="245" text-anchor="middle" font-size="30" fill="#c9a978">➜</text>
+
+  <!-- ===== PANEL 3 入る ===== -->
+  <rect x="444" y="90" width="180" height="300" rx="16" fill="#fbf6ee" stroke="#ead9c2"/>
+  <circle cx="464" cy="112" r="15" fill="#d9534f"/><text x="464" y="117" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">3</text>
+  <rect x="516" y="148" width="56" height="104" fill="#fff" stroke="#2b3a67" stroke-width="3"/>
+  <polygon points="516,148 516,252 496,242 496,158" fill="#c9a978" stroke="#2b3a67" stroke-width="2"/>
+  <circle cx="564" cy="202" r="3.5" fill="#2b3a67"/>
+  <g stroke="#3a8f5b" stroke-width="6" stroke-linecap="round" fill="none">
+    <line x1="470" y1="202" x2="500" y2="202"/>
+    <polyline points="490,192 502,202 490,212"/>
+  </g>
+  <text x="534" y="310" text-anchor="middle" font-size="34" font-weight="800" fill="#2b3a67">入る</text>
+  <text x="534" y="336" text-anchor="middle" font-size="15" fill="#6b7280">はいる</text>
+  <text x="534" y="364" text-anchor="middle" font-size="17" fill="#d9534f" font-weight="700">进入</text>
+  <text x="638" y="245" text-anchor="middle" font-size="30" fill="#c9a978">➜</text>
+
+  <!-- ===== PANEL 4 知る ===== -->
+  <rect x="656" y="90" width="180" height="300" rx="16" fill="#fbf6ee" stroke="#ead9c2"/>
+  <circle cx="676" cy="112" r="15" fill="#d9534f"/><text x="676" y="117" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">4</text>
+  <g stroke="#e0a800" stroke-width="4" stroke-linecap="round">
+    <line x1="746" y1="138" x2="746" y2="126"/><line x1="722" y1="148" x2="713" y2="139"/>
+    <line x1="770" y1="148" x2="779" y2="139"/><line x1="710" y1="170" x2="698" y2="170"/><line x1="782" y1="170" x2="794" y2="170"/>
+  </g>
+  <circle cx="746" cy="170" r="20" fill="#ffe9a8" stroke="#2b3a67" stroke-width="3"/>
+  <rect x="738" y="188" width="16" height="10" fill="#c9a978" stroke="#2b3a67" stroke-width="2"/>
+  <circle cx="746" cy="238" r="24" fill="#ffd9a0" stroke="#2b3a67" stroke-width="3"/>
+  <circle cx="738" cy="234" r="2.6" fill="#2b3a67"/><circle cx="755" cy="234" r="2.6" fill="#2b3a67"/>
+  <path d="M736 248 Q746 256 756 248" fill="none" stroke="#2b3a67" stroke-width="2.5"/>
+  <text x="746" y="310" text-anchor="middle" font-size="34" font-weight="800" fill="#2b3a67">知る</text>
+  <text x="746" y="336" text-anchor="middle" font-size="15" fill="#6b7280">しる</text>
+  <text x="746" y="364" text-anchor="middle" font-size="17" fill="#d9534f" font-weight="700">知道</text>
+  <text x="850" y="245" text-anchor="middle" font-size="30" fill="#c9a978">➜</text>
+
+  <!-- ===== PANEL 5 要る ===== -->
+  <rect x="868" y="90" width="152" height="300" rx="16" fill="#fbf6ee" stroke="#ead9c2"/>
+  <circle cx="888" cy="112" r="15" fill="#d9534f"/><text x="888" y="117" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">5</text>
+  <g stroke="#2b3a67" stroke-width="3">
+    <circle cx="916" cy="190" r="20" fill="#f5c542"/>
+    <circle cx="916" cy="190" r="8" fill="#fbf6ee"/>
+    <rect x="934" y="184" width="58" height="12" fill="#f5c542"/>
+    <rect x="972" y="196" width="9" height="14" fill="#f5c542"/>
+    <rect x="956" y="196" width="9" height="11" fill="#f5c542"/>
+  </g>
+  <text x="944" y="310" text-anchor="middle" font-size="34" font-weight="800" fill="#2b3a67">要る</text>
+  <text x="944" y="336" text-anchor="middle" font-size="15" fill="#6b7280">いる</text>
+  <text x="944" y="364" text-anchor="middle" font-size="17" fill="#d9534f" font-weight="700">需要</text>
+
+  <!-- story -->
+  <rect x="20" y="412" width="1000" height="54" rx="12" fill="#fff7ef" stroke="#e8c9a8"/>
+  <text x="40" y="445" font-size="17" fill="#2b3a67">📖 我 <tspan fill="#d9534f" font-weight="700">跑</tspan>(走る)着 <tspan fill="#d9534f" font-weight="700">回家</tspan>(帰る),<tspan fill="#d9534f" font-weight="700">进</tspan>(入る)了门,才 <tspan fill="#d9534f" font-weight="700">知道</tspan>(知る)自己 <tspan fill="#d9534f" font-weight="700">需要</tspan>(要る)的钥匙忘带了。</text>
+
+  <!-- rule -->
+  <rect x="20" y="478" width="1000" height="64" rx="12" fill="#eef3ff" stroke="#cdd9f5"/>
+  <text x="40" y="505" font-size="15" fill="#2b3a67">🧭 规则:る前是 i/e 段本该是 <tspan font-weight="700">Ⅱ类</tspan>;但「帰る・入る・走る・要る・知る」是必背例外,特批为 <tspan font-weight="700" fill="#2b50c0">Ⅰ类</tspan>。</text>
+  <text x="40" y="528" font-size="15" fill="#2b3a67">　　口诀:<tspan font-weight="700" fill="#d9534f">看着像 Ⅱ,其实是 Ⅰ</tspan> —— 遇到它们直接判 Ⅰ类,不要再套「る前看段」。</text>
+</svg>
