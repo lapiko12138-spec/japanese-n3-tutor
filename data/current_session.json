@@ -2,8 +2,8 @@
   "currentLessonId": "L02",
   "currentLessonTitle": "动词辞书形与三种类别",
   "currentStageId": "stage-0",
-  "phase": "awaiting_post_test",
-  "phaseLabel": "讲解完成 · 等待课后测试",
+  "phase": "post_test",
+  "phaseLabel": "课后测试进行中",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 6,
@@ -18,7 +18,7 @@
       "辞书形 → ます形 初步"
     ]
   },
-  "postTestReady": false,
+  "postTestReady": true,
   "notes": "项目刚初始化,尚未上第一节正式课。第一节正式课为 L02。正式讲解前先做很短的前置检查(动词/辞书形/ます形/常见基础动词)。",
   "nextAction": "等待学生在 Claude Code 对话框中说「开始今天的课程」。届时按 CLAUDE.md 第5节 12 步流程执行,从 L02 的前置检查开始。"
 }
