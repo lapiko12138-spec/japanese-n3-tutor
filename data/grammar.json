@@ -15,11 +15,11 @@
         { "jp": "毎日ご飯を食べる。", "kana": "まいにちごはんをたべる。", "cn": "每天吃饭。" },
         { "jp": "手紙を書く。", "kana": "てがみをかく。", "cn": "写信。" }
       ],
-      "mastery": "未学习",
-      "masteryLevel": 0,
+      "mastery": "基本掌握",
+      "masteryLevel": 6,
       "lastError": null,
-      "nextReview": null,
-      "note": "L02 新授"
+      "nextReview": "2026-06-19",
+      "note": "L02 新授 · 概念清晰,T1-T3全对、识别题全对"
     },
     {
       "id": "g-verb-classes",
@@ -33,11 +33,11 @@
         { "jp": "食べる は Ⅱ类。", "kana": "たべる は にるい。", "cn": "「食べる」是Ⅱ类。" },
         { "jp": "帰る は 例外で Ⅰ类。", "kana": "かえる は れいがいで いちるい。", "cn": "「帰る」是例外,属Ⅰ类。" }
       ],
-      "mastery": "未学习",
-      "masteryLevel": 0,
-      "lastError": null,
-      "nextReview": null,
-      "note": "L02 新授 · 对应诊断薄弱点⑦,优先补齐"
+      "mastery": "需要复习",
+      "masteryLevel": 4,
+      "lastError": "食べる/飲む混淆;作る る前看段疏忽;走る例外漏选",
+      "nextReview": "2026-06-16",
+      "note": "L02 新授 · 对应诊断薄弱点⑦。课中判别熟练、含例外帰る判对,但课后测试分类稳定性不足(4/7),L03 开课先复习"
     },
     {
       "id": "g-dict-to-masu",
@@ -50,11 +50,11 @@
         { "jp": "読む → 読みます", "kana": "よむ → よみます", "cn": "读 → 读(礼貌)" },
         { "jp": "見る → 見ます", "kana": "みる → みます", "cn": "看 → 看(礼貌)" }
       ],
-      "mastery": "未学习",
-      "masteryLevel": 0,
+      "mastery": "提示下能用",
+      "masteryLevel": 4,
       "lastError": null,
-      "nextReview": null,
-      "note": "L02 新授(初步),L03 深化"
+      "nextReview": "2026-06-17",
+      "note": "L02 初步,L03 深化 · ます形变形多数正确(17/20),Ⅰ类う段→い段、Ⅱ类去る、Ⅲ类背诵均能做"
     },
     {
       "id": "g-word-order",

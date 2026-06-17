@@ -7,25 +7,25 @@
   },
   "skills": [
     {
-      "id": "g-verb-classes", "name": "动词三类分类", "lessonId": "L02", "status": "未学习",
-      "heardExplanation": false, "canRecognize": false, "canExplain": false, "canConjugate": false,
-      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "id": "g-verb-classes", "name": "动词三类分类", "lessonId": "L02", "status": "需要复习",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": "部分",
+      "canChoose": "部分", "canFill": "部分", "canTranslate": true, "canProduce": "部分",
       "canReadComprehend": false, "retainedDelayed": false,
-      "note": "诊断薄弱点⑦,L02 重点新授"
+      "note": "诊断薄弱点⑦,L02 重点新授 · 课中判别熟练(含例外帰る/分かる、来る钉牢),课后测试分类稳定性4/7:食べる/飲む混淆、作る疏忽。L03 开课先复习"
     },
     {
-      "id": "g-dictionary-form", "name": "动词辞书形", "lessonId": "L02", "status": "未学习",
-      "heardExplanation": false, "canRecognize": "部分", "canExplain": false, "canConjugate": false,
-      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
+      "id": "g-dictionary-form", "name": "动词辞书形", "lessonId": "L02", "status": "基本掌握",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": "部分",
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L02 新授 · 辞书形概念清晰,能与ます形区分、能识别う段结尾特征,识别题与造句(手紙を書く)全对"
+    },
+    {
+      "id": "g-dict-to-masu", "name": "辞书形→ます形", "lessonId": "L02", "status": "提示下能用",
+      "heardExplanation": true, "canRecognize": true, "canExplain": "部分", "canConjugate": true,
+      "canChoose": "部分", "canFill": true, "canTranslate": true, "canProduce": true,
       "canReadComprehend": "部分", "retainedDelayed": false,
-      "note": "能见到原形但概念不清,L02 新授"
-    },
-    {
-      "id": "g-dict-to-masu", "name": "辞书形→ます形", "lessonId": "L02", "status": "未学习",
-      "heardExplanation": false, "canRecognize": false, "canExplain": false, "canConjugate": false,
-      "canChoose": false, "canFill": false, "canTranslate": false, "canProduce": false,
-      "canReadComprehend": false, "retainedDelayed": false,
-      "note": "L02 初步,L03 深化"
+      "note": "L02 初步,L03 深化 · Ⅰ类う段→い段、Ⅱ类去る、Ⅲ类背诵均能变(17/20),造句私は本を読みます正确"
     },
     {
       "id": "g-masu-system", "name": "礼貌体四态", "lessonId": "L03", "status": "需要复习",

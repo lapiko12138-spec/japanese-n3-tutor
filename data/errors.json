@@ -90,8 +90,8 @@
       "correctAnswer": "按结尾音与る前音判别,记常见例外(帰る等)",
       "reason": "动词分类体系遗忘,是后续变形的根本障碍",
       "errorType": "动词分类错误",
-      "repeated": false,
-      "nextReview": "2026-06-15",
+      "repeated": true,
+      "nextReview": "2026-06-16",
       "corrected": false,
       "fixLesson": "L02"
     },
@@ -109,6 +109,51 @@
       "nextReview": "2026-06-18",
       "corrected": false,
       "fixLesson": "L01 起持续"
+    },
+    {
+      "id": "e-0008",
+      "date": "2026-06-15",
+      "lessonId": "L02",
+      "grammarPoint": "g-verb-classes",
+      "question": "课后测试T6/T7:判别 食べる(吃)与 飲む(喝)的类别并变ます形",
+      "myAnswer": "食べる→Ⅰ类·飲みます;飲む→Ⅱ类·飲みます",
+      "correctAnswer": "食べる→Ⅱ类·食べます;飲む→Ⅰ类·飲みます",
+      "reason": "两词混淆:食べる(る前べ=e段→Ⅱ类)与 飲む(结尾む≠る→Ⅰ类)类别判反,且把食べる的ます形写成了飲みます",
+      "errorType": "动词分类错误",
+      "repeated": false,
+      "nextReview": "2026-06-16",
+      "corrected": false,
+      "fixLesson": "L03 开课复习"
+    },
+    {
+      "id": "e-0009",
+      "date": "2026-06-15",
+      "lessonId": "L02",
+      "grammarPoint": "g-verb-classes",
+      "question": "课后测试T10:判别 作る(つくる,制作)的类别",
+      "myAnswer": "Ⅱ类",
+      "correctAnswer": "Ⅰ类(る前「く」是u段)",
+      "reason": "看到る结尾即判Ⅱ类,漏看る前的音;课中T9曾判对,属疏忽",
+      "errorType": "动词分类错误",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "L03 开课复习"
+    },
+    {
+      "id": "e-0010",
+      "date": "2026-06-15",
+      "lessonId": "L02",
+      "grammarPoint": "g-verb-classes",
+      "question": "课后测试T12:多选「看着像Ⅱ类其实是Ⅰ类」的例外动词",
+      "myAnswer": "A入る、E知る",
+      "correctAnswer": "A入る、C走る、E知る",
+      "reason": "漏选 走る(记忆卡故事『跑回家』的跑);未误选真Ⅱ类(食べる/見る),说明方向正确,仅记忆不全",
+      "errorType": "遗忘",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "记忆卡复习"
     }
   ]
 }

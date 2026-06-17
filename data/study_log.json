@@ -4,15 +4,15 @@
     "note": "学习日志与统计。每节课结束追加 session 并更新 stats。"
   },
   "stats": {
-    "streakDays": 0,
-    "totalSessions": 0,
-    "totalMinutes": 0,
-    "lessonsCompleted": 0,
-    "wordsLearned": 0,
-    "grammarLearned": 0,
-    "lastStudyDate": null,
-    "weeklyMinutes": { "2026-W24": 0 },
-    "n3Progress": 0
+    "streakDays": 1,
+    "totalSessions": 1,
+    "totalMinutes": 75,
+    "lessonsCompleted": 1,
+    "wordsLearned": 8,
+    "grammarLearned": 3,
+    "lastStudyDate": "2026-06-15",
+    "weeklyMinutes": { "2026-W24": 75 },
+    "n3Progress": 1
   },
   "sessions": [
     {
@@ -25,6 +25,17 @@
       "reviewedWords": 0,
       "score": null,
       "summary": "完成入学诊断与系统初始化。定位 N5 后半~N4 初级。下一步:第一节正式课 L02(动词辞书形与三种类别)。"
+    },
+    {
+      "id": "s-0001",
+      "date": "2026-06-15",
+      "lessonId": "L02",
+      "type": "lesson",
+      "durationMin": 75,
+      "newWords": 8,
+      "reviewedWords": 1,
+      "score": 80,
+      "summary": "第一节正式课 L02 完成。6 个知识块全部讲完并通过课中测试:辞书形概念、动词三类判别(Ⅰ/Ⅱ/Ⅲ)、常见例外(帰る等)、辞书形→ます形初步。课后测试 80 分(基本掌握),通过。亮点:主动输出/翻译/造句/说理由几乎全对(分かる说理由、手紙を書く、私は本を読みます)。薄弱:动词分类稳定性——食べる/飲む混淆、作る る前看段疏忽、走る例外漏选;来る课中反复两次后钉牢。额外产出:为例外动词制作了一张连环画记忆卡(web/cards/exception-verbs)。下一课 L03(ます形与礼貌体),开课先复习动词分类。"
     }
   ]
 }

@@ -1,24 +1,19 @@
 {
-  "currentLessonId": "L02",
-  "currentLessonTitle": "动词辞书形与三种类别",
+  "currentLessonId": "L03",
+  "currentLessonTitle": "ます形与礼貌体",
   "currentStageId": "stage-0",
-  "phase": "post_test",
-  "phaseLabel": "课后测试进行中",
+  "phase": "completed",
+  "phaseLabel": "L02 已完成 · 等待开始 L03",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
-    "totalBlocks": 6,
-    "completedBlocks": ["什么是辞书形", "为什么要区分动词类别", "Ⅰ类(五段)动词", "Ⅱ类(一段)动词", "Ⅲ类(不规则)+ 常见例外", "辞书形→ます形 初步"],
+    "totalBlocks": 0,
+    "completedBlocks": [],
     "currentBlock": null,
-    "blockTitles": [
-      "什么是辞书形",
-      "为什么要区分动词类别",
-      "Ⅰ类(五段)动词",
-      "Ⅱ类(一段)动词",
-      "Ⅲ类(不规则)动词 + 常见例外",
-      "辞书形 → ます形 初步"
-    ]
+    "blockTitles": []
   },
-  "postTestReady": true,
-  "notes": "项目刚初始化,尚未上第一节正式课。第一节正式课为 L02。正式讲解前先做很短的前置检查(动词/辞书形/ます形/常见基础动词)。",
-  "nextAction": "等待学生在 Claude Code 对话框中说「开始今天的课程」。届时按 CLAUDE.md 第5节 12 步流程执行,从 L02 的前置检查开始。"
+  "postTestReady": false,
+  "notes": "L02(动词辞书形与三种类别)已于 2026-06-15 完成,课后测试 80 分通过。下一课 L03(ます形与礼貌体)。⚠️ L03 开课务必先用 5 分钟复习动词分类(L03 前置):重点带学生过 食べる/飲む 区分、作る『る前看段』、走る 等例外,可配合记忆卡 web/cards/exception-verbs。L03 核心:系统化辞书形→ます形四态(ます/ません/ました/ませんでした),尤其修复诊断薄弱点④『ませんでした』。",
+  "lastCompletedLessonId": "L02",
+  "lastCompletedScore": 80,
+  "nextAction": "等待学生说「开始今天的课程」开始 L03;或「复习上一课」复习 L02 动词分类与例外。"
 }
