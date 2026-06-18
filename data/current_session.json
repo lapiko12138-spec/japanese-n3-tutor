@@ -2,18 +2,23 @@
   "currentLessonId": "L03",
   "currentLessonTitle": "ます形与礼貌体",
   "currentStageId": "stage-0",
-  "phase": "completed",
-  "phaseLabel": "L02 已完成 · 等待开始 L03",
+  "phase": "reviewing",
+  "phaseLabel": "L03 前置复习中(动词分类)",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
-    "totalBlocks": 0,
+    "totalBlocks": 4,
     "completedBlocks": [],
     "currentBlock": null,
-    "blockTitles": []
+    "blockTitles": [
+      "ます形系统变化(Ⅰ/Ⅱ/Ⅲ类完整)",
+      "现在肯定ます / 现在否定ません",
+      "过去肯定ました / 过去否定ませんでした",
+      "四态综合切换与时间词"
+    ]
   },
   "postTestReady": false,
-  "notes": "L02(动词辞书形与三种类别)已于 2026-06-15 完成,课后测试 80 分通过。下一课 L03(ます形与礼貌体)。⚠️ L03 开课务必先用 5 分钟复习动词分类(L03 前置):重点带学生过 食べる/飲む 区分、作る『る前看段』、走る 等例外,可配合记忆卡 web/cards/exception-verbs。L03 核心:系统化辞书形→ます形四态(ます/ません/ました/ませんでした),尤其修复诊断薄弱点④『ませんでした』。",
+  "notes": "L03 第二节正式课。开课先做动词分类前置复习(L02 弱点:食べる/飲む、作る る前看段、走る 例外),通过后进入ます形系统化。核心修复诊断薄弱点④『ませんでした』(礼貌体过去否定)。",
   "lastCompletedLessonId": "L02",
   "lastCompletedScore": 80,
-  "nextAction": "等待学生说「开始今天的课程」开始 L03;或「复习上一课」复习 L02 动词分类与例外。"
+  "nextAction": "正在上 L03。前置复习通过后进入授课。"
 }
