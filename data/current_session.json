@@ -2,13 +2,13 @@
   "currentLessonId": "L03",
   "currentLessonTitle": "ます形与礼貌体",
   "currentStageId": "stage-0",
-  "phase": "reviewing",
-  "phaseLabel": "L03 前置复习中(动词分类)",
+  "phase": "teaching",
+  "phaseLabel": "授课中 · 第1块「ます形系统变化」",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 4,
     "completedBlocks": [],
-    "currentBlock": null,
+    "currentBlock": "ます形系统变化(Ⅰ/Ⅱ/Ⅲ类完整)",
     "blockTitles": [
       "ます形系统变化(Ⅰ/Ⅱ/Ⅲ类完整)",
       "现在肯定ます / 现在否定ません",
