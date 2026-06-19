@@ -2,8 +2,9 @@
   "currentLessonId": "L05",
   "currentLessonTitle": "基础助词体系",
   "currentStageId": "stage-0",
-  "phase": "awaiting_post_test",
-  "phaseLabel": "L05 讲解完成 · 等待课后测试",
+  "phase": "post_test",
+  "phaseLabel": "L05 课后测试进行中",
+  "postTestReady": true,
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
@@ -16,7 +17,6 @@
       "综合:在句子里选对助词"
     ]
   },
-  "postTestReady": false,
   "notes": "L05 阶段0最后一课。助词多(は/が/を/に/へ/で/と/も/の),分4块教,每块聚焦。は vs が 是难点,用对比讲。前置复习顺带巩固 i形容词补『です』习惯与名词四态。学完L05阶段0完成,进入阶段1(L06 て形)。学生目标已升级 N2@2027.7(N3@2026.12里程碑)。",
   "lastCompletedLessonId": "L04",
   "lastCompletedScore": 92,
