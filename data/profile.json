@@ -2,6 +2,13 @@
   "name": "学习者",
   "createdDate": "2026-06-14",
   "goal": "JLPT N3",
+  "examTarget": {
+    "exam": "JLPT N3",
+    "targetDate": "2026-12-06",
+    "setDate": "2026-06-15",
+    "requiredPace": "约每周 3 课(理想 3–4 课)+ 每日间隔复习",
+    "note": "目标 2026年12月 JLPT N3。从 2026-06 起约 25 周。按阶段倒排:7月攻N5动词体系、8-9月N4核心、10-11月N3语法+应试训练、12月初模拟冲刺。务必按时报名(中国大陆通常8月底~9月开放报名,勿错过)。配速优先消化与复习,避免疲劳型错误。"
+  },
   "duolingoScore": 58,
   "currentLevel": {
     "overall": "N5 后半段 ~ N4 初级",
