@@ -3,12 +3,12 @@
   "currentLessonTitle": "ます形与礼貌体",
   "currentStageId": "stage-0",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第3块「ました / ませんでした」★薄弱点④",
+  "phaseLabel": "授课中 · 第4块「四态综合切换与时间词」",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["ます形系统变化(Ⅰ/Ⅱ/Ⅲ类完整)", "现在肯定ます / 现在否定ません"],
-    "currentBlock": "过去肯定ました / 过去否定ませんでした",
+    "completedBlocks": ["ます形系统变化(Ⅰ/Ⅱ/Ⅲ类完整)", "现在肯定ます / 现在否定ません", "过去肯定ました / 过去否定ませんでした"],
+    "currentBlock": "四态综合切换与时间词",
     "blockTitles": [
       "ます形系统变化(Ⅰ/Ⅱ/Ⅲ类完整)",
       "现在肯定ます / 现在否定ません",
