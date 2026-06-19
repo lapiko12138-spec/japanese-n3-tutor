@@ -3,12 +3,12 @@
   "currentLessonTitle": "基础助词体系",
   "currentStageId": "stage-0",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第3块「で / と / も / の」",
+  "phaseLabel": "授课中 · 第4块「综合选助词」",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["は(主题) vs が(主语/焦点)", "を(宾语)· に(时间/存在/归着点)· へ(方向)"],
-    "currentBlock": "で(场所/手段)· と(和)· も(也)· の(的)",
+    "completedBlocks": ["は(主题) vs が(主语/焦点)", "を(宾语)· に(时间/存在/归着点)· へ(方向)", "で(场所/手段)· と(和)· も(也)· の(的)"],
+    "currentBlock": "综合:在句子里选对助词",
     "blockTitles": [
       "は(主题) vs が(主语/焦点)",
       "を(宾语)· に(时间/存在/归着点)· へ(方向)",
