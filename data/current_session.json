@@ -2,8 +2,8 @@
   "currentLessonId": "L03",
   "currentLessonTitle": "ます形与礼貌体",
   "currentStageId": "stage-0",
-  "phase": "awaiting_post_test",
-  "phaseLabel": "L03 讲解完成 · 等待课后测试",
+  "phase": "post_test",
+  "phaseLabel": "L03 课后测试进行中",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 4,
@@ -16,7 +16,7 @@
       "四态综合切换与时间词"
     ]
   },
-  "postTestReady": false,
+  "postTestReady": true,
   "notes": "L03 第二节正式课。开课先做动词分类前置复习(L02 弱点:食べる/飲む、作る る前看段、走る 例外),通过后进入ます形系统化。核心修复诊断薄弱点④『ませんでした』(礼貌体过去否定)。",
   "lastCompletedLessonId": "L02",
   "lastCompletedScore": 80,
