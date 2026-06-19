@@ -3,11 +3,17 @@
   "createdDate": "2026-06-14",
   "goal": "JLPT N3",
   "examTarget": {
-    "exam": "JLPT N3",
-    "targetDate": "2026-12-06",
+    "primaryGoal": "JLPT N2",
+    "primaryDate": "2027-07",
     "setDate": "2026-06-15",
-    "requiredPace": "约每周 3 课(理想 3–4 课)+ 每日间隔复习",
-    "note": "目标 2026年12月 JLPT N3。从 2026-06 起约 25 周。按阶段倒排:7月攻N5动词体系、8-9月N4核心、10-11月N3语法+应试训练、12月初模拟冲刺。务必按时报名(中国大陆通常8月底~9月开放报名,勿错过)。配速优先消化与复习,避免疲劳型错误。"
+    "ladder": [
+      { "level": "N3", "target": "2026-12", "status": "进行中 · 必经里程碑" },
+      { "level": "N2", "target": "2027-07", "status": "主目标" },
+      { "level": "N1", "target": "2028(暂定)", "status": "远期/视情况" }
+    ],
+    "requiredPace": "约每周 3–4 课 + 每日间隔复习 + 每日磨耳朵(听力)",
+    "listeningPlan": "听力是中文母语者最大瓶颈(汉字帮不上),需每日积累。现阶段:可理解输入(Nihongo con Teppei初级/Comprehensible Japanese/日本語の森N5-N4)+ 影子跟读;N3阶段:加 News Web Easy 与 JLPT N3 聴解;N2阶段:NHK新闻/播客/日剧。",
+    "note": "目标升级为 N2@2027年7月;N3@2026年12月作为必经里程碑;N1 为 2028 远期。配速每周3-4课,优先消化与复习,避免单日4课式疲劳冲刺。务必按时报名各场考试(12月场通常8月底~9月报名)。"
   },
   "duolingoScore": 58,
   "currentLevel": {
