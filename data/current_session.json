@@ -2,18 +2,23 @@
   "currentLessonId": "L05",
   "currentLessonTitle": "基础助词体系",
   "currentStageId": "stage-0",
-  "phase": "completed",
-  "phaseLabel": "L04 已完成 · 等待开始 L05",
-  "lastUpdated": "2026-06-15",
+  "phase": "reviewing",
+  "phaseLabel": "L05 前置复习中(は/を/に 直觉)",
+  "lastUpdated": "2026-06-16",
   "teachingProgress": {
-    "totalBlocks": 0,
+    "totalBlocks": 4,
     "completedBlocks": [],
     "currentBlock": null,
-    "blockTitles": []
+    "blockTitles": [
+      "は(主题) vs が(主语/焦点)",
+      "を(宾语)· に(时间/存在/归着点)· へ(方向)",
+      "で(场所/手段)· と(和)· も(也)· の(的)",
+      "综合:在句子里选对助词"
+    ]
   },
   "postTestReady": false,
-  "notes": "L04(名词句与形容词句)已于 2026-06-15 完成,课后测试 92 分(稳定掌握)通过。今日一天连上 L02+L03+L04 三课(约185分钟),强度大,建议下次适度休整、优先到期复习再上新课。下一课 L05(基础助词体系):は/が/を/に/へ/で/と/も/の。⚠️ 残留待巩固:① い形容词礼貌体补『です』习惯(e-0013);② 过去时肯定ました vs 否定ませんでした;③ Ⅲ类ます词干『し』。L05 复习铺垫可顺带带一遍。阶段0 学完 L05 即完成,进入阶段1(N5动词:て形起)。按12月N3目标,配速约每周3课。",
+  "notes": "L05 阶段0最后一课。助词多(は/が/を/に/へ/で/と/も/の),分4块教,每块聚焦。は vs が 是难点,用对比讲。前置复习顺带巩固 i形容词补『です』习惯与名词四态。学完L05阶段0完成,进入阶段1(L06 て形)。学生目标已升级 N2@2027.7(N3@2026.12里程碑)。",
   "lastCompletedLessonId": "L04",
   "lastCompletedScore": 92,
-  "nextAction": "等待学生说「开始今天的课程」开始 L05(阶段0最后一课);或「复习上一课」复习名词/形容词四态。建议先休息。"
+  "nextAction": "L05 授课中。"
 }
