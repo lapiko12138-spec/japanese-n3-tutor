@@ -255,6 +255,87 @@
       "nextReview": "2026-06-17",
       "errorHistory": [],
       "note": "Ⅱ类(る前ね=e段)→ 去る+ます=寝ます"
+    },
+    {
+      "id": "v-takai", "kanji": "高い", "kana": "たかい", "cn": "高;贵", "pos": "い形容词", "jlpt": "N5",
+      "collocations": ["背が高い", "値段が高い"],
+      "example": { "jp": "この店は高くないです。", "kana": "このみせは たかくないです。", "cn": "这家店不贵。" },
+      "confusable": ["安い(やすい,便宜)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "い形:高くない/高かった/高くなかった"
+    },
+    {
+      "id": "v-yasui", "kanji": "安い", "kana": "やすい", "cn": "便宜", "pos": "い形容词", "jlpt": "N5",
+      "collocations": ["安い店", "値段が安い"],
+      "example": { "jp": "この服は安かったです。", "kana": "このふくは やすかったです。", "cn": "这件衣服(那时)便宜。" },
+      "confusable": ["高い(たかい,贵)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "い形容词"
+    },
+    {
+      "id": "v-oishii", "kanji": "美味しい", "kana": "おいしい", "cn": "好吃;美味", "pos": "い形容词", "jlpt": "N5",
+      "collocations": ["美味しい料理", "美味しいパン"],
+      "example": { "jp": "この料理は美味しかったです。", "kana": "このりょうりは おいしかったです。", "cn": "这道菜(那时)很好吃。" },
+      "confusable": ["まずい(难吃)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [{ "date": "2026-06-15", "note": "过去否定曾写成『美味しなくかって』,顺序乱;经纠正为 美味しくなかった" }],
+      "note": "い形容词 · 过去否定くなかった是难点"
+    },
+    {
+      "id": "v-isogashii", "kanji": "忙しい", "kana": "いそがしい", "cn": "忙;忙碌", "pos": "い形容词", "jlpt": "N5",
+      "collocations": ["仕事が忙しい", "毎日忙しい"],
+      "example": { "jp": "昨日は忙しかったです。", "kana": "きのうは いそがしかったです。", "cn": "昨天很忙。" },
+      "confusable": ["暇(ひま,空闲,な形)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "い形容词"
+    },
+    {
+      "id": "v-muzukashii", "kanji": "難しい", "kana": "むずかしい", "cn": "难;困难", "pos": "い形容词", "jlpt": "N5",
+      "collocations": ["難しい問題", "試験が難しい"],
+      "example": { "jp": "昨日のテストは難しくなかったです。", "kana": "きのうの テストは むずかしくなかったです。", "cn": "昨天的考试不难。" },
+      "confusable": ["易しい(やさしい,简单)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "い形容词"
+    },
+    {
+      "id": "v-ii", "kanji": "いい / 良い", "kana": "いい", "cn": "好", "pos": "い形容词(不规则)", "jlpt": "N5",
+      "collocations": ["天気がいい", "頭がいい"],
+      "example": { "jp": "昨日は天気がよかったです。", "kana": "きのうは てんきが よかったです。", "cn": "昨天天气很好。" },
+      "confusable": ["悪い(わるい,坏)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-16",
+      "errorHistory": [], "note": "★ 不规则:变形时变よ-(よかった/よくない/よくなかった),不能用いかった"
+    },
+    {
+      "id": "v-shizuka", "kanji": "静か", "kana": "しずか", "cn": "安静", "pos": "な形容词", "jlpt": "N5",
+      "collocations": ["静かな部屋", "静かな町"],
+      "example": { "jp": "この部屋は静かです。", "kana": "このへやは しずかです。", "cn": "这房间很安静。" },
+      "confusable": ["うるさい(吵,い形)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "な形:静かではありません;修饰名词静かな"
+    },
+    {
+      "id": "v-genki", "kanji": "元気", "kana": "げんき", "cn": "精神好;健康;有活力", "pos": "な形容词", "jlpt": "N5",
+      "collocations": ["元気な子供", "お元気ですか"],
+      "example": { "jp": "祖母は元気でした。", "kana": "そぼは げんきでした。", "cn": "(那时)祖母很健康。" },
+      "confusable": [],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "な形容词"
+    },
+    {
+      "id": "v-kirei", "kanji": "きれい", "kana": "きれい", "cn": "漂亮;干净", "pos": "な形容词(伪装)", "jlpt": "N5",
+      "collocations": ["きれいな花", "部屋がきれい"],
+      "example": { "jp": "この花はきれいではありませんでした。", "kana": "このはなは きれいではありませんでした。", "cn": "这花(那时)不漂亮。" },
+      "confusable": ["嫌い(きらい,讨厌,也是な形伪装者)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-16",
+      "errorHistory": [], "note": "★ 陷阱:结尾是い却是な形容词 → きれいではありません(不是きれいくない)"
+    },
+    {
+      "id": "v-gakusei", "kanji": "学生", "kana": "がくせい", "cn": "学生", "pos": "名词", "jlpt": "N5",
+      "collocations": ["大学生", "学生時代"],
+      "example": { "jp": "私は学生ではありませんでした。", "kana": "わたしは がくせいではありませんでした。", "cn": "我(那时)不是学生。" },
+      "confusable": ["先生(せんせい,老师)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
+      "errorHistory": [], "note": "名词:用です系四态"
     }
   ]
 }

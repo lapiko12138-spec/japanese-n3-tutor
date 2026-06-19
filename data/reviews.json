@@ -20,6 +20,10 @@
     { "id": "r-0013", "type": "grammar", "refId": "g-masu-system", "label": "ます形四态综合(肯定/否定/过去切换)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "L03新授,83分", "fromError": null },
     { "id": "r-0014", "type": "error", "refId": "e-0011", "label": "过去 肯定ました vs 否定ませんでした", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "L03课后测试错(重复型)", "fromError": "e-0011" },
     { "id": "r-0015", "type": "error", "refId": "e-0012", "label": "勉強しません(Ⅲ类ます词干『し』)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L03课后测试错", "fromError": "e-0012" },
-    { "id": "r-0016", "type": "word", "refId": "L03-verbs", "label": "L03 六个新动词(行く·待つ·泳ぐ·遊ぶ·買う·寝る)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L03新学", "fromError": null }
+    { "id": "r-0016", "type": "word", "refId": "L03-verbs", "label": "L03 六个新动词(行く·待つ·泳ぐ·遊ぶ·買う·寝る)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L03新学", "fromError": null },
+    { "id": "r-0017", "type": "grammar", "refId": "g-i-adjective", "label": "い形容词四态(尤其くなかった+です)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "L04新授,くなかった课中纠正;漏です", "fromError": "e-0013" },
+    { "id": "r-0018", "type": "grammar", "refId": "g-noun-sentence", "label": "名词句/な形 です系四态", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L04新授,掌握好", "fromError": null },
+    { "id": "r-0019", "type": "word", "refId": "L04-adjectives", "label": "L04 形容词/名词(高い·安い·美味しい·忙しい·難しい·いい·静か·元気·きれい·学生)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L04新学", "fromError": null },
+    { "id": "r-0020", "type": "error", "refId": "e-0013", "label": "礼貌体补『です』习惯(い形容词)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L04课后多处漏です", "fromError": "e-0013" }
   ]
 }

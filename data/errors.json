@@ -184,6 +184,21 @@
       "nextReview": "2026-06-17",
       "corrected": false,
       "fixLesson": "复习巩固"
+    },
+    {
+      "id": "e-0013",
+      "date": "2026-06-15",
+      "lessonId": "L04",
+      "grammarPoint": "g-i-adjective",
+      "question": "L04课后测试:い形容词礼貌体(题目要求礼貌体)",
+      "myAnswer": "高くなかった / 難しくなかった / よかった / 面白かった(多处漏です)",
+      "correctAnswer": "高くなかったです / 難しくなかったです / よかったです / 面白かったです",
+      "reason": "い形容词变形全部正确,但礼貌体未在末尾补『です』,写成了普通体;非变形错,属习惯/语域问题",
+      "errorType": "表达不自然",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "习惯养成 · L05起留意"
     }
   ]
 }

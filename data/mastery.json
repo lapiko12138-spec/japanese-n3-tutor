@@ -68,6 +68,27 @@
       "canChoose": "部分", "canFill": false, "canTranslate": "部分", "canProduce": false,
       "canReadComprehend": "部分", "retainedDelayed": false,
       "note": "掌握不足(诊断薄弱点⑥)"
+    },
+    {
+      "id": "g-noun-sentence", "name": "名词句(です系四态)", "lessonId": "L04", "status": "基本掌握",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": true,
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L04新授 · 与ます四态平行,四态变形全对"
+    },
+    {
+      "id": "g-na-adjective", "name": "な形容词", "lessonId": "L04", "status": "基本掌握",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": true,
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L04新授 · きれい/嫌い伪装者判对"
+    },
+    {
+      "id": "g-i-adjective", "name": "い形容词", "lessonId": "L04", "status": "能独立使用",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": true,
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L04新授 · 12题形态全对(含くなかった);くなかった课中曾乱已纠正;习惯性漏です待养成"
     }
   ]
 }
