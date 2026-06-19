@@ -24,6 +24,9 @@
     { "id": "r-0017", "type": "grammar", "refId": "g-i-adjective", "label": "い形容词四态(尤其くなかった+です)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "L04新授,くなかった课中纠正;漏です", "fromError": "e-0013" },
     { "id": "r-0018", "type": "grammar", "refId": "g-noun-sentence", "label": "名词句/な形 です系四态", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L04新授,掌握好", "fromError": null },
     { "id": "r-0019", "type": "word", "refId": "L04-adjectives", "label": "L04 形容词/名词(高い·安い·美味しい·忙しい·難しい·いい·静か·元気·きれい·学生)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L04新学", "fromError": null },
-    { "id": "r-0020", "type": "error", "refId": "e-0013", "label": "礼貌体补『です』习惯(い形容词)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L04课后多处漏です", "fromError": "e-0013" }
+    { "id": "r-0020", "type": "error", "refId": "e-0013", "label": "礼貌体补『です』习惯(い形容词)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L04课后多处漏です", "fromError": "e-0013" },
+    { "id": "r-0021", "type": "grammar", "refId": "g-particles-basic", "label": "基础助词(は/が、に/で 等)", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L05新授,选助词几乎全对", "fromError": null },
+    { "id": "r-0022", "type": "error", "refId": "e-0014", "label": "好きです(な形容词非好きます)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L05课后造句错", "fromError": "e-0014" },
+    { "id": "r-0023", "type": "word", "refId": "L05-nouns", "label": "L05 名词(図書館·会社·電車·レストラン·公園·アニメ·日本料理)", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L05新学", "fromError": null }
   ]
 }

@@ -89,6 +89,13 @@
       "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
       "canReadComprehend": true, "retainedDelayed": false,
       "note": "L04新授 · 12题形态全对(含くなかった);くなかった课中曾乱已纠正;习惯性漏です待养成"
+    },
+    {
+      "id": "g-particles-basic", "name": "基础助词体系", "lessonId": "L05", "status": "基本掌握",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": "—",
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L05新授(阶段0收官)· 选助词题几乎全对,は/が、に/で两大难点掌握好;残留:で场所/手段识别、好きです(非好きます)"
     }
   ]
 }

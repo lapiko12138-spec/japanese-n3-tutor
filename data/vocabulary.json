@@ -336,6 +336,63 @@
       "confusable": ["先生(せんせい,老师)"],
       "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-15", "lastReview": "2026-06-15", "nextReview": "2026-06-17",
       "errorHistory": [], "note": "名词:用です系四态"
+    },
+    {
+      "id": "v-toshokan", "kanji": "図書館", "kana": "としょかん", "cn": "图书馆", "pos": "名词", "jlpt": "N5",
+      "collocations": ["図書館で勉強する", "図書館へ行く"],
+      "example": { "jp": "図書館で日本語を勉強します。", "kana": "としょかんで にほんごを べんきょうします。", "cn": "在图书馆学日语。" },
+      "confusable": ["本屋(ほんや,书店)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "动作场所用で:図書館で"
+    },
+    {
+      "id": "v-kaisha", "kanji": "会社", "kana": "かいしゃ", "cn": "公司", "pos": "名词", "jlpt": "N5",
+      "collocations": ["会社へ行く", "会社員"],
+      "example": { "jp": "電車で会社へ行きます。", "kana": "でんしゃで かいしゃへ いきます。", "cn": "坐电车去公司。" },
+      "confusable": ["会社員(かいしゃいん,公司职员)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "名词"
+    },
+    {
+      "id": "v-densha", "kanji": "電車", "kana": "でんしゃ", "cn": "电车", "pos": "名词", "jlpt": "N5",
+      "collocations": ["電車で行く", "電車に乗る"],
+      "example": { "jp": "毎朝電車で会社へ行きます。", "kana": "まいあさ でんしゃで かいしゃへ いきます。", "cn": "每天早上坐电车去公司。" },
+      "confusable": ["バス(公交)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "交通工具用で表手段:電車で"
+    },
+    {
+      "id": "v-restaurant", "kanji": "レストラン", "kana": "レストラン", "cn": "餐厅", "pos": "名词", "jlpt": "N5",
+      "collocations": ["レストランで食べる"],
+      "example": { "jp": "友達とレストランでご飯を食べます。", "kana": "ともだちと レストランで ごはんを たべます。", "cn": "和朋友在餐厅吃饭。" },
+      "confusable": ["食堂(しょくどう,食堂)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "片假名名词"
+    },
+    {
+      "id": "v-koen", "kanji": "公園", "kana": "こうえん", "cn": "公园", "pos": "名词", "jlpt": "N5",
+      "collocations": ["公園で遊ぶ", "公園へ行く"],
+      "example": { "jp": "友達と公園へ行きます。", "kana": "ともだちと こうえんへ いきます。", "cn": "和朋友去公园。" },
+      "confusable": [],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "名词"
+    },
+    {
+      "id": "v-anime", "kanji": "アニメ", "kana": "アニメ", "cn": "动漫;动画", "pos": "名词", "jlpt": "N5",
+      "collocations": ["日本のアニメ", "アニメを見る"],
+      "example": { "jp": "私は日本のアニメが好きです。", "kana": "わたしは にほんの アニメが すきです。", "cn": "我喜欢日本的动漫。" },
+      "confusable": ["漫画(まんが,漫画)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "好きの对象用が:アニメが好きです"
+    },
+    {
+      "id": "v-nihonryori", "kanji": "日本料理", "kana": "にほんりょうり", "cn": "日本料理", "pos": "名词", "jlpt": "N5",
+      "collocations": ["日本料理が好き", "日本料理を食べる"],
+      "example": { "jp": "私は日本料理が好きです。", "kana": "わたしは にほんりょうりが すきです。", "cn": "我喜欢日本料理。" },
+      "confusable": ["中華料理(ちゅうかりょうり,中餐)"],
+      "mastery": "需要复习", "masteryLevel": 2, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-17",
+      "errorHistory": [{ "date": "2026-06-16", "note": "造句时谓语写成『好きます』,应『好きです』(好き是な形容词)" }],
+      "note": "好きの对象用が;好き是な形容词→好きです(非好きます)"
     }
   ]
 }

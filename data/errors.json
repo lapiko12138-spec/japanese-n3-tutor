@@ -199,6 +199,21 @@
       "nextReview": "2026-06-17",
       "corrected": false,
       "fixLesson": "习惯养成 · L05起留意"
+    },
+    {
+      "id": "e-0014",
+      "date": "2026-06-16",
+      "lessonId": "L05",
+      "grammarPoint": "g-na-adjective",
+      "question": "L05课后测试Q14:中译日『我喜欢日本料理』",
+      "myAnswer": "私は日本料理が好きます",
+      "correctAnswer": "私は日本料理が好きです",
+      "reason": "助词は/が均正确,但把な形容词『好き』当动词加了ます;な形容词/名词用です系,ます只接动词",
+      "errorType": "动词变形错误",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "L04 な形容词延伸巩固"
     }
   ]
 }

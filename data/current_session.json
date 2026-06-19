@@ -1,24 +1,20 @@
 {
-  "currentLessonId": "L05",
-  "currentLessonTitle": "基础助词体系",
-  "currentStageId": "stage-0",
-  "phase": "post_test",
-  "phaseLabel": "L05 课后测试进行中",
-  "postTestReady": true,
+  "currentLessonId": "L06",
+  "currentLessonTitle": "て形(变化规则)",
+  "currentStageId": "stage-1",
+  "phase": "completed",
+  "phaseLabel": "L05 已完成 · 🎊通关阶段0 · 等待开始 L06",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
-    "totalBlocks": 4,
-    "completedBlocks": ["は(主题) vs が(主语/焦点)", "を(宾语)· に(时间/存在/归着点)· へ(方向)", "で(场所/手段)· と(和)· も(也)· の(的)", "综合:在句子里选对助词"],
+    "totalBlocks": 0,
+    "completedBlocks": [],
     "currentBlock": null,
-    "blockTitles": [
-      "は(主题) vs が(主语/焦点)",
-      "を(宾语)· に(时间/存在/归着点)· へ(方向)",
-      "で(场所/手段)· と(和)· も(也)· の(的)",
-      "综合:在句子里选对助词"
-    ]
+    "blockTitles": []
   },
-  "notes": "L05 阶段0最后一课。助词多(は/が/を/に/へ/で/と/も/の),分4块教,每块聚焦。は vs が 是难点,用对比讲。前置复习顺带巩固 i形容词补『です』习惯与名词四态。学完L05阶段0完成,进入阶段1(L06 て形)。学生目标已升级 N2@2027.7(N3@2026.12里程碑)。",
-  "lastCompletedLessonId": "L04",
-  "lastCompletedScore": 92,
-  "nextAction": "L05 授课中。"
+  "postTestReady": false,
+  "notes": "L05(基础助词体系)已于 2026-06-16 完成,课后测试 90 分(稳定掌握)通过。★★ 通关阶段0(N5基础重建:句子结构→动词分类→ます形→名词/形容词句→助词)★★,正式进入阶段1(N5动词体系)。下一课 L06(て形 变化规则):按动词类别变て形,促音便/拨音便/イ音便——这是后续 ています/てください/た形等一大批语法的基础,务必扎实。前置(动词分类)已稳。⚠️ 残留待巩固:① い形容词补『です』习惯(e-0013);② 好きです非好きます(な形容词,e-0014);③ で场所vs手段识别;④ 过去肯定ました vs 否定ませんでした。目标:N3@2026.12里程碑→N2@2027.7,配速每周3-4课+每日磨耳朵。",
+  "lastCompletedLessonId": "L05",
+  "lastCompletedScore": 90,
+  "stage0Completed": true,
+  "nextAction": "等待学生说「开始今天的课程」开始 L06 て形(阶段1第一课);或「复习上一课」复习助词/形容词。"
 }
