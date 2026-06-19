@@ -3,12 +3,12 @@
   "currentLessonTitle": "て形(变化规则)",
   "currentStageId": "stage-1",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第2块「Ⅰ类音便① って/んで」",
+  "phaseLabel": "授课中 · 第3块「く→いて/ぐ→いで/す→して+例外」",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["て形是什么 + Ⅱ类/Ⅲ类(简单组)"],
-    "currentBlock": "Ⅰ类音便①:う・つ・る→って / ぬ・ぶ・む→んで",
+    "completedBlocks": ["て形是什么 + Ⅱ类/Ⅲ类(简单组)", "Ⅰ类音便①:う・つ・る→って / ぬ・ぶ・む→んで"],
+    "currentBlock": "Ⅰ类音便②:く→いて / ぐ→いで / す→して + 例外行く",
     "blockTitles": [
       "て形是什么 + Ⅱ类/Ⅲ类(简单组)",
       "Ⅰ类音便①:う・つ・る→って / ぬ・ぶ・む→んで",
