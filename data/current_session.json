@@ -3,12 +3,12 @@
   "currentLessonTitle": "名词句与形容词句",
   "currentStageId": "stage-0",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第2块「な形容词」",
+  "phaseLabel": "授课中 · 第3块「い形容词」",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["名词句四态(です/ではありません/でした/ではありませんでした)"],
-    "currentBlock": "な形容词(像名词一样变)",
+    "completedBlocks": ["名词句四态(です/ではありません/でした/ではありませんでした)", "な形容词(像名词一样变)"],
+    "currentBlock": "い形容词(自己一套:〜い/〜くない/〜かった/〜くなかった)",
     "blockTitles": [
       "名词句四态(です/ではありません/でした/ではありませんでした)",
       "な形容词(像名词一样变)",
