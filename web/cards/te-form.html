@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>て形变化图卡 · 不靠死记</title>
+  <style>
+    :root{ --bg:#f6f4ef; --ink:#2b3a67; --muted:#6b7280; --card:#fff; --line:#e5e1d8;
+      --blue:#3a6ea5; --red:#d9534f; --green:#3a8f5b; --purple:#7a5ba6; --orange:#d98a3a; }
+    *{box-sizing:border-box}
+    body{font-family:system-ui,"PingFang SC","Hiragino Sans",sans-serif;background:var(--bg);color:var(--ink);margin:0;padding:24px 16px;display:flex;flex-direction:column;align-items:center;gap:14px}
+    .wrap{max-width:880px;width:100%}
+    h1{font-size:22px;margin:0 0 4px;text-align:center}
+    .sub{color:var(--muted);font-size:14px;text-align:center;margin:0}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin-top:14px;box-shadow:0 6px 18px rgba(43,58,103,.05)}
+    .card h2{font-size:16px;margin:0 0 10px}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    @media(max-width:620px){ .grid{grid-template-columns:1fr} }
+    .grp{border-radius:14px;padding:14px;color:#fff}
+    .grp .end{font-size:15px;opacity:.95}
+    .grp .arrow{font-size:30px;font-weight:800;margin:4px 0}
+    .grp .ex{background:rgba(255,255,255,.18);border-radius:8px;padding:6px 10px;margin-top:8px;font-size:14px;line-height:1.7}
+    .grp .anchor{font-size:12px;margin-top:6px;opacity:.95}
+    .g-tte{background:var(--blue)} .g-nde{background:var(--red)} .g-ite{background:var(--green)}
+    .g-ide{background:var(--purple)} .g-shite{background:var(--orange)}
+    .g-simple{background:#5a6b8c}
+    .why{background:#fff7ef;border:1px dashed #e8c9a8}
+    .why b{color:var(--red)}
+    .song{background:#eef3ff;border:1px solid #cdd9f5;text-align:center;font-size:16px;line-height:2}
+    .song b{color:#2b50c0}
+    .exc{background:#fde8e8;border:1px solid #f3b6b6}
+    .exc b{color:var(--red)}
+    .back{font-size:13px;margin-top:16px} .back a{color:#2b50c0;text-decoration:none}
+    ul{margin:6px 0;padding-left:20px;line-height:1.8}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>🔄 て形变化图卡</h1>
+    <p class="sub">理解发音逻辑 + 锚点动词,别靠死记 · て形是 ています/てください/た形 的共同基础</p>
+
+    <div class="card">
+      <h2>① 先挑出简单的两类</h2>
+      <div class="grid">
+        <div class="grp g-simple">
+          <div class="end">Ⅱ类(一段)</div>
+          <div class="arrow">去る + て</div>
+          <div class="ex">食べる→食べて · 見る→見て · 寝る→寝て</div>
+        </div>
+        <div class="grp g-simple">
+          <div class="end">Ⅲ类(不规则 · 背)</div>
+          <div class="arrow">背下来</div>
+          <div class="ex">する→して · 来る→来て(きて)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>② Ⅰ类:看词尾分 5 组(颜色分组)</h2>
+      <div class="grid">
+        <div class="grp g-tte">
+          <div class="end">词尾 う・つ・る</div>
+          <div class="arrow">→ って</div>
+          <div class="ex">買う→買って · 待つ→待って · 帰る→帰って</div>
+          <div class="anchor">⚓ 锚点:買う(买)→ 買って</div>
+        </div>
+        <div class="grp g-nde">
+          <div class="end">词尾 む・ぶ・ぬ</div>
+          <div class="arrow">→ んで</div>
+          <div class="ex">読む→読んで · 遊ぶ→遊んで · 死ぬ→死んで</div>
+          <div class="anchor">⚓ 锚点:飲む(喝)→ 飲んで</div>
+        </div>
+        <div class="grp g-ite">
+          <div class="end">词尾 く</div>
+          <div class="arrow">→ いて</div>
+          <div class="ex">書く→書いて · 聞く→聞いて</div>
+          <div class="anchor">⚓ 锚点:書く(写)→ 書いて</div>
+        </div>
+        <div class="grp g-ide">
+          <div class="end">词尾 ぐ</div>
+          <div class="arrow">→ いで</div>
+          <div class="ex">泳ぐ→泳いで · 急ぐ→急いで</div>
+          <div class="anchor">⚓ 锚点:泳ぐ(游)→ 泳いで</div>
+        </div>
+        <div class="grp g-shite">
+          <div class="end">词尾 す</div>
+          <div class="arrow">→ して</div>
+          <div class="ex">話す→話して · 貸す→貸して</div>
+          <div class="anchor">⚓ 锚点:話す(说)→ 話して</div>
+        </div>
+        <div class="grp exc" style="color:var(--ink)">
+          <div class="end" style="color:var(--red);font-weight:700">⚠️ 唯一例外</div>
+          <div class="arrow" style="color:var(--red)">行く → 行って</div>
+          <div class="ex" style="background:#fff;color:var(--ink)">行く 是Ⅰ类,本该→行いて,但它特殊,记 <b>行って</b>(不是行いて)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card why">
+      <h2>③ 为什么这么分?(理解就不用背)</h2>
+      <ul>
+        <li><b>う・つ・る → って</b>:念念看,嘴都是"啪"地<b>干脆收尾</b> → 顿一下的小促音 っ。</li>
+        <li><b>む・ぶ・ぬ → んで</b>:念念看,都要<b>闭嘴/鼻子哼一下</b>(m·b·n 鼻音浊音)→ ん,并把て浊化成 で。</li>
+        <li><b>く → いて / ぐ → いで</b>:k 软化成 い;ぐ是浊音所以 て→で。</li>
+        <li><b>す → して</b>:す→し(像ます形那样滑到い段)+ て。</li>
+      </ul>
+    </div>
+
+    <div class="card song">
+      🎵 <b>て形之歌</b>(带节奏念几遍)<br/>
+      う・つ・る → <b>って!</b>　む・ぶ・ぬ → <b>んで!</b><br/>
+      く → <b>いて</b>、ぐ → <b>いで</b>、す → <b>して!</b><br/>
+      行く は <b>行って</b>(例外!)
+    </div>
+
+    <div class="back"><a href="../">← 返回学习仪表盘</a></div>
+  </div>
+</body>
+</html>
