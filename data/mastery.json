@@ -28,11 +28,11 @@
       "note": "L02 初步,L03 深化 · Ⅰ类う段→い段、Ⅱ类去る、Ⅲ类背诵均能变(17/20),造句私は本を読みます正确"
     },
     {
-      "id": "g-masu-system", "name": "礼貌体四态", "lessonId": "L03", "status": "需要复习",
-      "heardExplanation": true, "canRecognize": true, "canExplain": false, "canConjugate": "部分",
-      "canChoose": "部分", "canFill": false, "canTranslate": "部分", "canProduce": false,
+      "id": "g-masu-system", "name": "礼貌体四态", "lessonId": "L03", "status": "能独立使用",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": true,
+      "canChoose": "部分", "canFill": true, "canTranslate": true, "canProduce": true,
       "canReadComprehend": true, "retainedDelayed": false,
-      "note": "ませんでした 不熟(诊断薄弱点④)"
+      "note": "L03系统化完成 · 诊断薄弱点④ませんでした已修复;换段(つ→ち等)、四态、时间词↔时态均能做。残留:过去肯定/否定稳定性(Q8)、Ⅲ类ます词干『し』(Q11)"
     },
     {
       "id": "g-teiru", "name": "～ています(进行/状态)", "lessonId": "L07", "status": "已遗忘",

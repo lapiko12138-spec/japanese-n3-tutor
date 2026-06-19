@@ -5,8 +5,8 @@
     "note": "间隔复习队列。type: word/grammar/error。dueDate 到期即在网站「复习计划」与首页「到期复习」中出现。重复答错缩短间隔,主动自然使用延长间隔。"
   },
   "items": [
-    { "id": "r-0001", "type": "grammar", "refId": "g-verb-classes", "label": "动词三类分类", "dueDate": "2026-06-16", "intervalStage": 1, "lastResult": "L02已授+测试:基本掌握但分类不稳(食べる/飲む、作る错),缩短间隔", "fromError": "e-0006" },
-    { "id": "r-0002", "type": "grammar", "refId": "g-masu-system", "label": "ませんでした(礼貌体四态)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0004" },
+    { "id": "r-0001", "type": "grammar", "refId": "g-verb-classes", "label": "动词三类分类", "dueDate": "2026-06-18", "intervalStage": 2, "lastResult": "L03前置复习F1-F5全对(昨日弱点食べる/飲む/作る/走る均纠正),已稳固", "fromError": "e-0006" },
+    { "id": "r-0002", "type": "grammar", "refId": "g-masu-system", "label": "ませんでした(礼貌体四态)", "dueDate": "2026-06-17", "intervalStage": 1, "lastResult": "L03修复:ませんでした已掌握,残留过去肯定/否定稳定性", "fromError": "e-0004" },
     { "id": "r-0003", "type": "grammar", "refId": "g-teiru", "label": "～ています(进行/状态)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0001" },
     { "id": "r-0004", "type": "grammar", "refId": "g-ta-koto-ga-aru", "label": "～たことがある(经验)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": "e-0003" },
     { "id": "r-0005", "type": "grammar", "refId": "g-toki-basic", "label": "～とき(时间表达)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "诊断薄弱", "fromError": null },
@@ -16,6 +16,10 @@
     { "id": "r-0009", "type": "error", "refId": "e-0009", "label": "作る る前看段(Ⅰ类)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L02课后测试错", "fromError": "e-0009" },
     { "id": "r-0010", "type": "grammar", "refId": "g-dict-to-masu", "label": "辞书形→ます形", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L02初步,17/20", "fromError": null },
     { "id": "r-0011", "type": "grammar", "refId": "g-dictionary-form", "label": "动词辞书形(概念)", "dueDate": "2026-06-19", "intervalStage": 0, "lastResult": "L02掌握良好", "fromError": null },
-    { "id": "r-0012", "type": "word", "refId": "L02-verbs", "label": "L02 八个动词(食べる·見る·起きる·書く·読む·話す·帰る·する)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L02新学", "fromError": null }
+    { "id": "r-0012", "type": "word", "refId": "L02-verbs", "label": "L02 八个动词(食べる·見る·起きる·書く·読む·話す·帰る·する)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L02新学", "fromError": null },
+    { "id": "r-0013", "type": "grammar", "refId": "g-masu-system", "label": "ます形四态综合(肯定/否定/过去切换)", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "L03新授,83分", "fromError": null },
+    { "id": "r-0014", "type": "error", "refId": "e-0011", "label": "过去 肯定ました vs 否定ませんでした", "dueDate": "2026-06-16", "intervalStage": 0, "lastResult": "L03课后测试错(重复型)", "fromError": "e-0011" },
+    { "id": "r-0015", "type": "error", "refId": "e-0012", "label": "勉強しません(Ⅲ类ます词干『し』)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L03课后测试错", "fromError": "e-0012" },
+    { "id": "r-0016", "type": "word", "refId": "L03-verbs", "label": "L03 六个新动词(行く·待つ·泳ぐ·遊ぶ·買う·寝る)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L03新学", "fromError": null }
   ]
 }

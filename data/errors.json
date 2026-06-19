@@ -91,8 +91,8 @@
       "reason": "动词分类体系遗忘,是后续变形的根本障碍",
       "errorType": "动词分类错误",
       "repeated": true,
-      "nextReview": "2026-06-16",
-      "corrected": false,
+      "nextReview": "2026-06-18",
+      "corrected": true,
       "fixLesson": "L02"
     },
     {
@@ -121,8 +121,8 @@
       "reason": "两词混淆:食べる(る前べ=e段→Ⅱ类)与 飲む(结尾む≠る→Ⅰ类)类别判反,且把食べる的ます形写成了飲みます",
       "errorType": "动词分类错误",
       "repeated": false,
-      "nextReview": "2026-06-16",
-      "corrected": false,
+      "nextReview": "2026-06-17",
+      "corrected": true,
       "fixLesson": "L03 开课复习"
     },
     {
@@ -137,7 +137,7 @@
       "errorType": "动词分类错误",
       "repeated": false,
       "nextReview": "2026-06-17",
-      "corrected": false,
+      "corrected": true,
       "fixLesson": "L03 开课复习"
     },
     {
@@ -152,8 +152,38 @@
       "errorType": "遗忘",
       "repeated": false,
       "nextReview": "2026-06-17",
-      "corrected": false,
+      "corrected": true,
       "fixLesson": "记忆卡复习"
+    },
+    {
+      "id": "e-0011",
+      "date": "2026-06-15",
+      "lessonId": "L03",
+      "grammarPoint": "g-masu-system",
+      "question": "课后测试Q8:起きる 的过去肯定(『起床了』)",
+      "myAnswer": "起きませんでした(过去否定『没起床』)",
+      "correctAnswer": "起きました(过去肯定『起床了』)",
+      "reason": "过去时把『肯定』写成了『否定』:ました(做了)与 ませんでした(没做)混用。与 L02 课中 T11 同型,重复出现",
+      "errorType": "时态错误",
+      "repeated": true,
+      "nextReview": "2026-06-16",
+      "corrected": false,
+      "fixLesson": "复习巩固"
+    },
+    {
+      "id": "e-0012",
+      "date": "2026-06-15",
+      "lessonId": "L03",
+      "grammarPoint": "g-masu-system",
+      "question": "课后测试Q11:勉強する 的现在否定",
+      "myAnswer": "勉強ません(漏了し)",
+      "correctAnswer": "勉強しません",
+      "reason": "Ⅲ类 する 的 ます形是『します』,词干为『し』;否定要在『し』上加ません,丢了『し』",
+      "errorType": "动词变形错误",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "复习巩固"
     }
   ]
 }
