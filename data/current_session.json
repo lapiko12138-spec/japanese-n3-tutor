@@ -2,13 +2,13 @@
   "currentLessonId": "L05",
   "currentLessonTitle": "基础助词体系",
   "currentStageId": "stage-0",
-  "phase": "reviewing",
-  "phaseLabel": "L05 前置复习中(は/を/に 直觉)",
+  "phase": "teaching",
+  "phaseLabel": "授课中 · 第1块「は vs が」",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
     "completedBlocks": [],
-    "currentBlock": null,
+    "currentBlock": "は(主题) vs が(主语/焦点)",
     "blockTitles": [
       "は(主题) vs が(主语/焦点)",
       "を(宾语)· に(时间/存在/归着点)· へ(方向)",
