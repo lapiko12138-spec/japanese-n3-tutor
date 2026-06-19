@@ -2,13 +2,13 @@
   "currentLessonId": "L04",
   "currentLessonTitle": "名词句与形容词句",
   "currentStageId": "stage-0",
-  "phase": "teaching",
-  "phaseLabel": "授课中 · 第4块「三类区分综合」",
+  "phase": "awaiting_post_test",
+  "phaseLabel": "L04 讲解完成 · 等待课后测试",
   "lastUpdated": "2026-06-15",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["名词句四态(です/ではありません/でした/ではありませんでした)", "な形容词(像名词一样变)", "い形容词(自己一套:〜い/〜くない/〜かった/〜くなかった)"],
-    "currentBlock": "综合:名词·な形·い形 三类区分与时间词",
+    "completedBlocks": ["名词句四态(です/ではありません/でした/ではありませんでした)", "な形容词(像名词一样变)", "い形容词(自己一套:〜い/〜くない/〜かった/〜くなかった)", "综合:名词·な形·い形 三类区分与时间词"],
+    "currentBlock": null,
     "blockTitles": [
       "名词句四态(です/ではありません/でした/ではありませんでした)",
       "な形容词(像名词一样变)",
