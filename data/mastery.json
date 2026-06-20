@@ -96,6 +96,13 @@
       "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
       "canReadComprehend": true, "retainedDelayed": false,
       "note": "L05新授(阶段0收官)· 选助词题几乎全对,は/が、に/で两大难点掌握好;残留:で场所/手段识别、好きです(非好きます)"
+    },
+    {
+      "id": "g-te-form", "name": "动词て形", "lessonId": "L06", "status": "稳定掌握",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": true,
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L06新授(阶段1开篇)· 复述规则准确含发音逻辑,混合变形与てください应用正确(94分)。残留:来る不规则易套规则(くって→来て);んで/す组初学曾忘删词尾(已纠正)"
     }
   ]
 }

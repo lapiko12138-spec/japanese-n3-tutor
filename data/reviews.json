@@ -27,6 +27,9 @@
     { "id": "r-0020", "type": "error", "refId": "e-0013", "label": "礼貌体补『です』习惯(い形容词)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L04课后多处漏です", "fromError": "e-0013" },
     { "id": "r-0021", "type": "grammar", "refId": "g-particles-basic", "label": "基础助词(は/が、に/で 等)", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L05新授,选助词几乎全对", "fromError": null },
     { "id": "r-0022", "type": "error", "refId": "e-0014", "label": "好きです(な形容词非好きます)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L05课后造句错", "fromError": "e-0014" },
-    { "id": "r-0023", "type": "word", "refId": "L05-nouns", "label": "L05 名词(図書館·会社·電車·レストラン·公園·アニメ·日本料理)", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L05新学", "fromError": null }
+    { "id": "r-0023", "type": "word", "refId": "L05-nouns", "label": "L05 名词(図書館·会社·電車·レストラン·公園·アニメ·日本料理)", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L05新学", "fromError": null },
+    { "id": "r-0024", "type": "grammar", "refId": "g-te-form", "label": "动词て形(五组音便+例外)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L06新授94分", "fromError": null },
+    { "id": "r-0025", "type": "error", "refId": "e-0015", "label": "来る→来て(Ⅲ类不规则,非くって)", "dueDate": "2026-06-17", "intervalStage": 0, "lastResult": "L06课后错(来る反复点)", "fromError": "e-0015" },
+    { "id": "r-0026", "type": "word", "refId": "L06-verbs", "label": "L06 动词(聞く·急ぐ·貸す·消す·死ぬ)", "dueDate": "2026-06-18", "intervalStage": 0, "lastResult": "L06新学", "fromError": null }
   ]
 }

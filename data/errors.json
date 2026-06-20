@@ -214,6 +214,21 @@
       "nextReview": "2026-06-17",
       "corrected": false,
       "fixLesson": "L04 な形容词延伸巩固"
+    },
+    {
+      "id": "e-0015",
+      "date": "2026-06-16",
+      "lessonId": "L06",
+      "grammarPoint": "g-te-form",
+      "question": "L06课后测试Q11:来る 的て形",
+      "myAnswer": "くって",
+      "correctAnswer": "来て(きて)",
+      "reason": "把Ⅲ类不规则『来る』当成Ⅰ类る结尾套了る→って规则;来る是Ⅲ类,て形要背:来て(读音く→き)",
+      "errorType": "动词变形错误",
+      "repeated": true,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "复习巩固(来る反复点:与する同为Ⅲ类双胞胎)"
     }
   ]
 }

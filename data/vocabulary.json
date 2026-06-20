@@ -393,6 +393,46 @@
       "mastery": "需要复习", "masteryLevel": 2, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-17",
       "errorHistory": [{ "date": "2026-06-16", "note": "造句时谓语写成『好きます』,应『好きです』(好き是な形容词)" }],
       "note": "好きの对象用が;好き是な形容词→好きです(非好きます)"
+    },
+    {
+      "id": "v-kiku", "kanji": "聞く", "kana": "きく", "cn": "听;问", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["音楽を聞く", "先生に聞く"],
+      "example": { "jp": "音楽を聞いています。", "kana": "おんがくを きいて います。", "cn": "(我)在听音乐。" },
+      "confusable": ["聴く(专注地听)", "効く(见效)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类 く→いて:聞いて"
+    },
+    {
+      "id": "v-isogu", "kanji": "急ぐ", "kana": "いそぐ", "cn": "急;赶紧", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["仕事を急ぐ", "急いで行く"],
+      "example": { "jp": "急いで駅へ行きました。", "kana": "いそいで えきへ いきました。", "cn": "急忙去了车站。" },
+      "confusable": [],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类 ぐ→いで(浊):急いで"
+    },
+    {
+      "id": "v-kasu", "kanji": "貸す", "kana": "かす", "cn": "借出;借给", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["お金を貸す", "本を貸す"],
+      "example": { "jp": "友達に本を貸しました。", "kana": "ともだちに ほんを かしました。", "cn": "把书借给了朋友。" },
+      "confusable": ["借りる(かりる,借入,Ⅱ类)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类 す→して:貸して · 注意与 借りる(借入)相反"
+    },
+    {
+      "id": "v-kesu", "kanji": "消す", "kana": "けす", "cn": "关掉;消除;熄灭", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["電気を消す", "火を消す"],
+      "example": { "jp": "電気を消してください。", "kana": "でんきを けして ください。", "cn": "请关灯。" },
+      "confusable": ["つける(打开/点亮)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [{ "date": "2026-06-16", "note": "て形曾写成『消すして』(未删词尾す),应『消して』" }], "note": "Ⅰ类 す→して:消して"
+    },
+    {
+      "id": "v-shinu", "kanji": "死ぬ", "kana": "しぬ", "cn": "死", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["死んでしまう"],
+      "example": { "jp": "魚が死んでいます。", "kana": "さかなが しんで います。", "cn": "鱼死了(状态)。" },
+      "confusable": ["生きる(いきる,活)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类中唯一常见的ぬ结尾词,ぬ→んで:死んで(て形ぬぶむ组代表)"
     }
   ]
 }
