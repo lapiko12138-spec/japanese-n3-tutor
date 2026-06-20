@@ -2,8 +2,9 @@
   "currentLessonId": "L06",
   "currentLessonTitle": "て形(变化规则)",
   "currentStageId": "stage-1",
-  "phase": "awaiting_post_test",
-  "phaseLabel": "L06 讲解完成 · 等待课后测试",
+  "phase": "post_test",
+  "phaseLabel": "L06 课后测试(先复述规则)",
+  "postTestReady": true,
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
@@ -16,7 +17,6 @@
       "综合:全类混合变て形"
     ]
   },
-  "postTestReady": false,
   "notes": "L06 阶段1第一课,te形。て形是后续 ています/てください/てもいい/た形 的共同基础,必须扎实。难点是Ⅰ类音便(促音便/拨音便/イ音便)+ 例外行く→行って。前置(动词分类)已稳,开课快速复习分类即可。可用口诀『うつるって・ぬぶむんで・くいて・ぐいで・すして』。Ⅱ/Ⅲ类简单先教建立信心,再攻Ⅰ类。",
   "lastCompletedLessonId": "L05",
   "lastCompletedScore": 90,
