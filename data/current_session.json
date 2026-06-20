@@ -3,12 +3,12 @@
   "currentLessonTitle": "～ています(进行 / 状态)",
   "currentStageId": "stage-1",
   "phase": "teaching",
-  "phaseLabel": "授课中 · 第1块「ています基本构造」",
+  "phaseLabel": "授课中 · 第2块「进行 vs 过去」",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": [],
-    "currentBlock": "ています基本构造(て形+います=正在进行)",
+    "completedBlocks": ["ています基本构造(て形+います=正在进行)"],
+    "currentBlock": "进行 vs 过去:ています vs ました(薄弱点①)",
     "blockTitles": [
       "ています基本构造(て形+います=正在进行)",
       "进行 vs 过去:ています vs ました(薄弱点①)",
