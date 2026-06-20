@@ -2,13 +2,13 @@
   "currentLessonId": "L06",
   "currentLessonTitle": "て形(变化规则)",
   "currentStageId": "stage-1",
-  "phase": "teaching",
-  "phaseLabel": "授课中 · 第4块「综合混合变て形」",
+  "phase": "awaiting_post_test",
+  "phaseLabel": "L06 讲解完成 · 等待课后测试",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["て形是什么 + Ⅱ类/Ⅲ类(简单组)", "Ⅰ类音便①:う・つ・る→って / ぬ・ぶ・む→んで", "Ⅰ类音便②:く→いて / ぐ→いで / す→して + 例外行く"],
-    "currentBlock": "综合:全类混合变て形",
+    "completedBlocks": ["て形是什么 + Ⅱ类/Ⅲ类(简单组)", "Ⅰ类音便①:う・つ・る→って / ぬ・ぶ・む→んで", "Ⅰ类音便②:く→いて / ぐ→いで / す→して + 例外行く", "综合:全类混合变て形"],
+    "currentBlock": null,
     "blockTitles": [
       "て形是什么 + Ⅱ类/Ⅲ类(简单组)",
       "Ⅰ类音便①:う・つ・る→って / ぬ・ぶ・む→んで",
