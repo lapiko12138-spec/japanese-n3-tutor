@@ -2,8 +2,9 @@
   "currentLessonId": "L07",
   "currentLessonTitle": "～ています(进行 / 状态)",
   "currentStageId": "stage-1",
-  "phase": "awaiting_post_test",
-  "phaseLabel": "L07 讲解完成 · 等待课后测试",
+  "phase": "post_test",
+  "phaseLabel": "L07 课后测试(先复述规则)",
+  "postTestReady": true,
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
@@ -16,7 +17,6 @@
       "否定·过去·口语:ていません/ていました/てる"
     ]
   },
-  "postTestReady": false,
   "notes": "L07(～ています),针对诊断薄弱点①(进行时/过去时混淆)。前置=て形(L06刚学),开课先复习て形,尤其来る→来て(e-0015反复点)。难点:① 进行(食べています=正在吃)vs 过去(食べました=吃了);② ています的『状态』用法(住んでいます/結婚しています/知っています/持っています=结果状态,不是正在);③ 否定ていません、过去ていました、口语てる。按新规则:语法题前先让学生复述规则。学生偏好理解性记忆。",
   "lastCompletedLessonId": "L06",
   "lastCompletedScore": 94,
