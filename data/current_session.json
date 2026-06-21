@@ -2,13 +2,13 @@
   "currentLessonId": "L07",
   "currentLessonTitle": "～ています(进行 / 状态)",
   "currentStageId": "stage-1",
-  "phase": "teaching",
-  "phaseLabel": "授课中 · 第4块「否定·过去·口语」",
+  "phase": "awaiting_post_test",
+  "phaseLabel": "L07 讲解完成 · 等待课后测试",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
-    "completedBlocks": ["ています基本构造(て形+います=正在进行)", "进行 vs 过去:ています vs ました(薄弱点①)", "ています表状态(住む/結婚する/知る等)"],
-    "currentBlock": "否定·过去·口语:ていません/ていました/てる",
+    "completedBlocks": ["ています基本构造(て形+います=正在进行)", "进行 vs 过去:ています vs ました(薄弱点①)", "ています表状态(住む/結婚する/知る等)", "否定·过去·口语:ていません/ていました/てる"],
+    "currentBlock": null,
     "blockTitles": [
       "ています基本构造(て形+います=正在进行)",
       "进行 vs 过去:ています vs ました(薄弱点①)",
