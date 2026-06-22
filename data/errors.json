@@ -229,6 +229,36 @@
       "nextReview": "2026-06-17",
       "corrected": false,
       "fixLesson": "复习巩固(来る反复点:与する同为Ⅲ类双胞胎)"
+    },
+    {
+      "id": "e-0016",
+      "date": "2026-06-16",
+      "lessonId": "L07",
+      "grammarPoint": "g-te-form",
+      "question": "L07课后测试Q12:把『聞く』变ています(我正在听音乐)",
+      "myAnswer": "音楽をきっています",
+      "correctAnswer": "音楽を聞いています(きいています)",
+      "reason": "聞く是く结尾→て形く→いて→聞いて;误用了促音っ(きって)。带っ的是うつる组,聞く走いて",
+      "errorType": "动词变形错误",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "て形复习(く→いて)"
+    },
+    {
+      "id": "e-0017",
+      "date": "2026-06-16",
+      "lessonId": "L07",
+      "grammarPoint": "g-particles-basic",
+      "question": "L07课后测试Q15:弟弟在房间里看电视",
+      "myAnswer": "弟は部屋にテレビを見ています",
+      "correctAnswer": "弟は部屋でテレビを見ています",
+      "reason": "看电视是动作,动作发生地用で(非に);に表存在(部屋にいる),で表动作(部屋で見る)。L05 で/に辨析点",
+      "errorType": "助词错误",
+      "repeated": false,
+      "nextReview": "2026-06-17",
+      "corrected": false,
+      "fixLesson": "L05 で/に 复习巩固"
     }
   ]
 }

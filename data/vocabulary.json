@@ -433,6 +433,46 @@
       "confusable": ["生きる(いきる,活)"],
       "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
       "errorHistory": [], "note": "Ⅰ类中唯一常见的ぬ结尾词,ぬ→んで:死んで(て形ぬぶむ组代表)"
+    },
+    {
+      "id": "v-sumu", "kanji": "住む", "kana": "すむ", "cn": "住;居住", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["東京に住む", "アパートに住む"],
+      "example": { "jp": "私は大阪に住んでいます。", "kana": "わたしは おおさかに すんでいます。", "cn": "我住在大阪。" },
+      "confusable": ["泊まる(とまる,住宿/过夜)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "住所用に;表居住状态用住んでいます(非住みます)"
+    },
+    {
+      "id": "v-kekkonsuru", "kanji": "結婚する", "kana": "けっこんする", "cn": "结婚", "pos": "动词 · Ⅲ类", "jlpt": "N5",
+      "collocations": ["彼と結婚する", "結婚しています(已婚)"],
+      "example": { "jp": "姉は結婚しています。", "kana": "あねは けっこんしています。", "cn": "姐姐已婚。" },
+      "confusable": ["離婚する(りこんする,离婚)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "瞬间动词:結婚しています=已婚(状态),非正在结婚"
+    },
+    {
+      "id": "v-shiru", "kanji": "知る", "kana": "しる", "cn": "知道;认识", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["答えを知る", "知っています(知道)"],
+      "example": { "jp": "彼の名前を知っています。", "kana": "かれの なまえを しっています。", "cn": "(我)知道他的名字。" },
+      "confusable": ["分かる(わかる,明白/懂)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类例外(看似Ⅱ实Ⅰ)· 知道=知っています;不知道特殊→知りません(非知っていません)"
+    },
+    {
+      "id": "v-motsu", "kanji": "持つ", "kana": "もつ", "cn": "拿;持有;有", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["お金を持つ", "持っています(拥有)"],
+      "example": { "jp": "車を持っています。", "kana": "くるまを もっています。", "cn": "(我)有车。" },
+      "confusable": ["待つ(まつ,等)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类 つ→って:持って;表拥有状态用持っています"
+    },
+    {
+      "id": "v-furu", "kanji": "降る", "kana": "ふる", "cn": "下(雨/雪)", "pos": "动词 · Ⅰ类", "jlpt": "N5",
+      "collocations": ["雨が降る", "雪が降る"],
+      "example": { "jp": "今、雨が降っています。", "kana": "いま、あめが ふっています。", "cn": "现在正在下雨。" },
+      "confusable": ["振る(ふる,挥/甩)"],
+      "mastery": "初步理解", "masteryLevel": 3, "introducedDate": "2026-06-16", "lastReview": "2026-06-16", "nextReview": "2026-06-18",
+      "errorHistory": [], "note": "Ⅰ类 る→って:降って;雨が降っています=正在下雨"
     }
   ]
 }

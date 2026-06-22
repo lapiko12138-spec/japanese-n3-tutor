@@ -35,11 +35,11 @@
       "note": "L03系统化完成 · 诊断薄弱点④ませんでした已修复;换段(つ→ち等)、四态、时间词↔时态均能做。残留:过去肯定/否定稳定性(Q8)、Ⅲ类ます词干『し』(Q11)"
     },
     {
-      "id": "g-teiru", "name": "～ています(进行/状态)", "lessonId": "L07", "status": "已遗忘",
-      "heardExplanation": true, "canRecognize": "部分", "canExplain": false, "canConjugate": false,
-      "canChoose": "部分", "canFill": false, "canTranslate": "部分", "canProduce": false,
-      "canReadComprehend": "部分", "retainedDelayed": false,
-      "note": "与过去时混淆(诊断薄弱点①)"
+      "id": "g-teiru", "name": "～ています(进行/状态)", "lessonId": "L07", "status": "基本掌握",
+      "heardExplanation": true, "canRecognize": true, "canExplain": true, "canConjugate": true,
+      "canChoose": true, "canFill": true, "canTranslate": true, "canProduce": true,
+      "canReadComprehend": true, "retainedDelayed": false,
+      "note": "L07修复诊断薄弱点①:进行vs过去辨析满分,状态用法(結婚/住む/知る)、否定ていません掌握,复述准确。残留carry-over:聞く的て形、动作场所で/に偶发滑落"
     },
     {
       "id": "g-ta-koto-ga-aru", "name": "～たことがある(经验)", "lessonId": "L13", "status": "未学习",
