@@ -2,13 +2,13 @@
   "currentLessonId": "L08",
   "currentLessonTitle": "～てください / ～てもいい / ～てはいけない",
   "currentStageId": "stage-1",
-  "phase": "reviewing",
-  "phaseLabel": "L08 前置复习中(て形)",
+  "phase": "teaching",
+  "phaseLabel": "授课中 · 第1块「～てください」",
   "lastUpdated": "2026-06-16",
   "teachingProgress": {
     "totalBlocks": 4,
     "completedBlocks": [],
-    "currentBlock": null,
+    "currentBlock": "～てください(请求:请做…)",
     "blockTitles": [
       "～てください(请求:请做…)",
       "～てもいい(许可:可以做…)",
